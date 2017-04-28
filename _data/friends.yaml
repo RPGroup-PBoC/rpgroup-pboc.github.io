@@ -1,0 +1,29 @@
+- name: Justin Bois
+  image: bois
+  location: Caltech
+  link: "http://bois.caltech.edu"
+
+- name: Willem Kegel
+  image: kegel
+  location: Universiteit Utrecht
+  link: "https://www.uu.nl/staff/WKKegel/0"
+
+- name: Justin Kinney
+  image: kinney
+  location: Cold Spring Harbor Laboratory
+  link: "http://kinneylab.labsites.cshl.edu"
+
+- name: Michael Lässig
+  image: lassig
+  link: "http://www.thp.uni-koeln.de/~lassig/"
+  location: University of Cologne
+
+- name: Michael Lynch
+  image: lynch
+  location: Indiana University
+  link: "http://www.indiana.edu/~lynchlab/"
+
+- name: Armita Nourmohammed
+  image: armita
+  location: Princeton University
+  link: "http://scholar.princeton.edu/armitan"

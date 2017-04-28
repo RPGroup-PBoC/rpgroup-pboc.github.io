@@ -1,0 +1,108 @@
+---
+layout: post
+title: Research
+image: assets/images/research_new.jpg
+permalink: research
+---
+
+
+## Allostery and Biology's Greatest Model
+
+
+
+
+<img style="display: block; margin: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/images/allostery.png">
+
+
+
+
+One of the most far reaching phenomena for the molecules of the cell is
+allostery, the fact that these molecules can exist in distinct conformations
+with different activities.  Examples range from ion channels to transcription
+factors to enzymes.  We have been very interested in the unity of perspective
+offered by the famed Monod-Wyman-Changeux model for allosteric molecules and
+have been using this framework to guide a variety of experiments on allosteric
+transcription factors with the objective of learning how phenotypic properties
+such as the leakiness and the effective cooperativity are determined by the
+underlying microscopic parameters characterizing these molecules.  In addition,
+these ideas have led us to an evolutionary perspective in which we aim to
+understand how mutations lead to phenotypic changes in the functional behavior
+of allosteric molecules.
+
+## It's a Phage World
+
+
+<img style="display: block; margin: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/images/phage_world.png">
+
+
+
+Studies of viral diversity suggest there are in excess of 10<sup>30</sup> viruses on
+planet Earth, dwarfing the numbers of any other kinds of biological organisms.
+Our group has a long standing interest both in the physics of how viruses work
+and in their function and diversity in the world around us.  Our studies of the
+physics of viruses have focused on how viruses package and deliver their
+genomes, using both theoretical ideas from elasticity and statistical mechanics
+as well as single-molecule and single-cell experimental techniques.  Our goal
+is to delineate the physical processes of viral infections and their stunningly
+precise process of viral assembly.  We have also been investigating the
+challenging but important question of what viruses are present in natural
+environments such as the termite gut and the human mouth, what hosts they
+effect and what their ecological role in these natural environments.
+
+## Deciphering the Genomic Rosetta Stone
+
+
+<img style="display: block; margin: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/images/rosetta_stone.png">
+
+
+Most people surveyed would say that E. coli is probably biology’s best
+understood organism.  And yet, out of its more than 4500 different genes, we
+know nothing about how half of those genes are regulated.  Literally nothing –
+no transcription factor binding sites, no transcription factors identified that
+regulate those genes.  Work in our laboratory is using a combination of
+mutagenesis, cell-sorting, and deep sequencing,   mass spectrometry and models
+from information theory and statistical physics to uncover the regulatory
+architectures of some of these uncharacterized genes.  Once we have these
+regulatory architectures in hand, we then turn to allied efforts in the
+laboratory aimed at using statistical mechanical models of gene regulation in
+conjunction with precision measurements to predict and measure the full
+input-output behavior of these genes.  Further, we are also engaged in using
+these approaches in the evolutionary setting to explore how transcription
+factors and their binding sites co-evolve.
+
+## Action At A Distance On Genomes
+
+
+<img style="display: block; margin: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/images/at_a_distance.png">
+
+
+In prokaryotes and eukaryotes alike, many genomic processes require distant
+parts of the genome to come into contact.  For example, in prokaryotic gene
+regulation, DNA looping is a common motif whereby transcription factors bind at
+more than one site simultaneously looping the intervening DNA.  Similarly, in
+the context of the immune system, the process of V(D)J recombination requires
+different gene segments to be joined together in order to create the DNA
+templates that lead to antibodies.  Work in our laboratory aims to bring
+together theoretical ideas from statistical physics with single-molecule and
+single-cell approaches to trying to understand the mechanism of such action at
+a distance.
+
+
+## Specificity Costs
+
+
+<img style="display: block; margin: auto; max-width: 100%;" src="{{ site.baseurl }}/assets/images/vdj.png">
+
+
+
+“Napoleon is in equilibrium”.  These words were fired off at a speaker who had
+used ideas from equilibrium statistical mechanics to evaluate some process in
+molecular biophysics.  Though equilibrium ideas certainly work in many contexts
+that at first blush seem inappropriate, indeed, there are many biological
+processes which are highly dependent upon the fact that the system is out of
+equilibrium.  Work in our group in this area aims to explore how processes such
+as DNA replication have such amazingly high fidelity in comparison with what is
+permitted by thermodynamic equilibrium alone.  A second exciting set of
+questions center on how energy invested in biological processes permits
+reactions to occur in a sequential fashion that is forbidden by equilibrium
+considerations.

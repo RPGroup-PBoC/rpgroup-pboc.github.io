@@ -1,0 +1,763 @@
+2017:
+  - title: "An allosteric theory of transcription factor induction"
+    author: "Manuel Razo-Mejia <sup> * </sup>, Stephanie Barnes <sup> * </sup>, Nathan Belliveau <sup> * </sup>, Griffin Chure <sup> * </sup>, Tal Einav <sup> * </sup>, and Rob Phillips (<sup> * </sup> contributed equally)."
+    journal: bioRxiv
+    links:
+      PDF: "RazoMejia_et_al_2017.pdf"
+      SI: "RazoMejia_et_al_2017_SI.pdf"
+      Website: "http://rpgroup-pboc.github.io/mwc_induction"
+      Repository: "http://www.github.com/rpgroup-pboc/mwc_induction"
+
+  - title: "Monod-Wyman-Changeux Analysis of Ligand-Gated Ion Channel Mutants"
+    author: "Tal Einav and Rob Phillips."
+    journal: Journal of Physical Chemistry B.
+    links:
+      DOI: "10.1021/acs/jpcb/6b12672"
+      PDF: "Einav2017.pdf"
+      SI: "Einav2017_SI.pdf"
+      Mathematica Notebook: "Einav2017_SI.nb"
+
+  - title: "The Energetic Cost of Building a Virus"
+    author: "Gita Mahmoudabadi, Ron Milo, and Rob Phillips."
+    journal: "preprint on ArXiv"
+    links:
+      PDF: "Mahmoudabadi2017.pdf"
+
+2016:
+  - title: "Statistical Mechanics of Allosteric Enzymes"
+    author: "Tal Einav, Linus Mazutis, and Rob Phillips."
+    journal: "Journal of Physical Chemistry B"
+    volume: 120
+    number: (26)
+    links:
+      PDF: "EinavMazutis_J_Phys_Chem_B_2016.pdf"
+      SI: "EinavMazutis_J_Phys_Chem_B_2016_SI.pdf"
+      Mathematica Notebook: "EinavMazutis_J_Phys_Chem_B_SI_2016.nb"
+
+  - title: "SnapShot: Timescales in Cell Biology"
+    author: "Maya Shamir, Yinon Bar-On, Rob Phillips, and Ron Milo."
+    journal: Cell
+    volume: 164
+    number: (6)
+    links:
+      PDF: "Shamir2016.pdf"
+
+  - title: "Using synthetic biology to make cells tomorrow's test tubes"
+    author: "Hernan G. Garcia, Robert C. Brewster, and Rob Phillips."
+    journal: "Integrative Biology"
+    volume: 8
+    links:
+      DOI: "10.1039/c6ib00006a"
+      PDF: "Garcia2016.pdf"
+
+  - title: "Design Principles of Length Control of Cytoskeletal Structures."
+    author: "Lishibanya Mohapatra, Bruce L. Goode, Predrag Jelenovic, Rob Phillips, and Jané Kondev."
+    journal: "Annual Reviews of Biophysics"
+    volume: 45
+    links:
+      PDF: "Mohapatra2016.pdf"
+      SI: "Mohapatra2016_SI.pdf"
+
+2015:
+  - title: "Theory in Biology: Figure 1 or Figure 7?"
+    author: "Rob Phillips."
+    journal: "Trends in Cell Biology"
+    volume: 25
+    number: (12)
+    links:
+      PDF: "phillips2015.pdf"
+
+  - title: "Interplay of Protein Binding Interactions, DNA Mechanics, and Entropy in DNA Looping Kinetics."
+    author: "Peter Mulligan, Yi-Ju Chen, Rob Phillips, and Andrew Spakowitz."
+    journal: "Biophysical Journal"
+    volume: 109
+    number: (3)
+    links:
+     PDF: "mulligan_chen_2015.pdf"
+
+  - title: "Napoleon is in Equilibrium."
+    author: "Rob Phillips"
+    journal: "Annual Review of Condensed Matter Physics"
+    volume: 6
+    number: (1)
+    links:
+     PDF: "NapoleonEquilibrium.pdf"
+
+  - title: "Single-molecule analysis of RAG-mediated V(D)J DNA cleavage."
+    author: "Geoffrey Lovely, Robert C. Brewster, David Baltimore, and Rob Phillips."
+    journal: PNAS
+    volume: 112
+    number: (14)
+    links:
+     PDF: "Lovely_PNAS.pdf"
+     SI:  "Lovely_PNAS_SI.pdf"
+
+  - title: "The Rate of Osmotic Downshock Determines the Survival Probability of Bacterial Mechanosensitive Channel Mutants."
+    author: "Maja Bialecka-Fornal<sup>*</sup>, Heun Jin Lee <sup>*</sup>, and Rob Phillips (<sup>*</sup>contributed equally)."
+    journal:  "Journal of Bacteriology"
+    volume: 197
+    number: (1)
+    links:
+      PDF: "Bialecka-Fornal_2015.pdf"
+
+2014:
+  - title: "Promoter architecture dictates cell-to-cell variability in gene expression."
+    author: "Daniel L. Jones <sup>*</sup>, Robert C. Brewster <sup>*</sup>, and Rob Phillips (<sup>*</sup>contributed equally)."
+    journal: Science
+    volume: 346
+    number: (6216)
+    links:
+      PDF: "JonesBrewster2014.pdf"
+      SI: "JonesBrewster2014_SI.pdf"
+
+  - title: "Scaling of Gene Expression With Transcription Factor Fugacity"
+    author: "Franz Weinert<sup>*</sup>, Rob Brewster<sup>*</sup>, Mattias Rydenfelt, Willem Kegel, and Rob Phillips."
+    journal: Physical Review Lettters
+    volume: 113
+    number: (25)
+    links:
+      PDF: "weinert2014.pdf"
+
+  - title: "Modulation of DNA loop lifetimes by the free energy of loop formation"
+    author: "Yi-Ju Chen, Stephanie Johnson, Peter Mulligan, Andrew J. Spakowitz, and Rob Phillips."
+    journal: PNAS
+    volume: 111
+    number: (49)
+    links:
+      PDF: Chen2014.pdf
+
+  - title: "The influence of promoter architectures and regulatory motifs on gene expression in <i>Escherichia coli</i>"
+    author: "Mattias Rydenfelt, Hernan G. Garcia, Robert Sydney Cox III, and Rob Phillips."
+    journal: PLoS One
+    volume: 9
+    number: (12)
+    links:
+      PDF: "RydenfeltPLOSONe2014.pdf"
+
+  - title: "The Quantified Cell"
+    author: "Avi Flamholz, Rob Phillips, and Ron Milo."
+    journal: "Molecular Biology of the Cell"
+    volume: 25
+    number: (22)
+    links:
+      PDF: "Flamholz2014.pdf"
+
+  - title: "Multiple LacI-mediated loops revealed by Bayesian statistics and tethered particle motion"
+    author: "Stephanie Johnson, Jan-Willem van de Meent, Chris H. Wiggins, Martin Lindén, and Rob Phillips."
+    journal: Nucleic Acids Research
+    links:
+      PDF: "Johnson2014.pdf"
+
+  - title: "The Transcription Factor Titration Effect Dictates Level of Gene Expression"
+    author: "Robert C. Brewster<sup>*</sup>, Franz M. Weinert<sup>*</sup>, Hernan G. Garcia, Dan Song, Mattias Rydenfelt, and Rob Phillips (<sup>*</sup>contributed equally)."
+    journal: Cell
+    volume: 156
+    number: (6)
+    links:
+      PDF: brewster2014.pdf
+      SI: brewster2014_SI_text.pdf
+      SI Figures: brewster2014_SI_figures.pdf
+
+  - title: "Distinct structural features of TFAM drive mitochondrial DNA packaging versus transcriptional activation"
+    author: "Huu Ngo, Geoffrey Lovely, Rob Phillips, and David Chan."
+    journal: "Nature Communications"
+    volume: 5
+    links:
+      PDF: "Lovely2014.pdf"
+      SI: "Lovely2014_SI.pdf"
+
+  - title: "Statistical mechanical model of coupled transcription from multiple promoters due to transcription factor titration"
+    author: "Mattias Rydenfelt, Robert Sydney Cox III, Hernan G. Garcia, and Rob Phillips."
+    journal: Phsyical Review E
+    volume: 89
+    number: (1)
+    links:
+      PDF: Rydenfelt2014.pdf
+      Mathematica Notebook: Rydenfelt2014_SI.nb
+
+2013:
+  - title: "In Retrospect: The Feynman Lectures of Physics"
+    author: "Rob Phillips."
+    journal: "Nature"
+    volume: 504
+    links:
+      PDF: "FeynmanNatureReview.pdf"
+
+  - title: "DNA sequence-dependent mechanics and protein-assisted bending in repressor-mediated loop formation"
+    author: "James Boedicker,  Hernan G. Garcia, Stephanie Johnson, and Rob Phillips."
+    journal: "Physical Biology"
+    volume: 10
+    number: (6)
+    links:
+      PDF: "Boedicker etal HU PhysBio 2013.pdf"
+      SI: "Boedicker etal HU PhysBio 2013 SI.pdf"
+
+  - title: "Poly(dA:dT)-rich DNAs are Highly Flexible in the Context of DNA Looping"
+    author: "Stephanie Johnson, Yi-Ju Chen, and Rob Phillips."
+    journal: "PLoS One"
+    volume: 8
+    number: (10)
+    links:
+      PDF: "journal.pone.0075799.pdf"
+      SI: "Johnson2013PLoS ONE.pdf"
+
+  - title: "Host-Virus Interaction: From Metagenomics To Single Cell Genomics"
+    author: "Arbel D. Tadmor and Rob Phillips."
+    journal: "Encyclopedia of Metagenomics: SpringerReference. SpringerReference"
+    links:
+      Encyclopedia Entry: "http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6418-1_792-2"
+
+  - title: "Connection Between Oligomeric State and Gating Characteristics of Mechanosensitive Ion Channels"
+    author: "Christoph Haselwandter and Rob Phillips."
+    journal: "PLoS Computational Biology"
+    volume: 9
+    number: (5)
+    links:
+      PDF: "haselwandter_2013_plos.pdf"
+
+  - title: "Directional interactions and cooperativity between mechanosensitive membrane proteins"
+    author: "Christoph Haselwandter and Rob Phillips."
+    journal: "EPL"
+    volume: 101
+    number: (6)
+    links:
+      PDF: "haselwandter_2013_epl.pdf"
+
+  - title: "Statistical Mechanics of Monod-Wyman-Changeux (MWC) Models"
+    author: "Sarah Marzen, Hernan G. Garcia, and Rob Phillips."
+    journal: "Journal of Molecular Biology"
+    volume: 425
+    number: (9)
+    links:
+      PDF: "MWC-JMB2013.pdf"
+      SI:  "Marzen2013supp.pdf"
+      Erratum: "Marzen2013erratum.pdf"
+
+  - title: "Theoretical and experimental dissection of DNA loop-mediated repression"
+    author: "James Boedicker, Hernan G. Garcia, and Rob Phillips"
+    journal: "Physical Review Letters"
+    volume: 110
+    number: (1)
+    links:
+      PDF: "Boedicker Garcia Phillips PRL 2013.pdf"
+      SI: "Boedicker etal PRL Suppl Mat.pdf"
+
+2012:
+  - title: "Interdisciplinary Graduate Training in Teaching Labs"
+    author: "Ronald D. Vale, Joseph DeRisi, R. Dyche Mullins, Clare Waterman, Timothy J. Mitchinson, and Rob Phillips."
+    journal: Science
+    volume: 338
+    number: (6114)
+    links:
+      PDF: "Vale 2012 - Interdisciplinary Graduate Training in Teaching Labs"
+
+  - title: "Tuning Promoter Strength Through RNA Polymeras eBinding Site Design in <i>Escherichia coli</i>"
+    author: "Robert C. Brewster, Daniel Jones, and Rob Phillips."
+    journal: "PLoS Computational Biology"
+    volume: 8
+    number: (12)
+    links:
+      PDF: "BrewsterJonesPhillips2012PromoterDesign.pdf"
+
+  - title: "Focus on the Physics of the Cell Membrane"
+    author: "Patricia Bassereau, Petra Schwille, and Rob Phillips."
+    journal: "New Journal of Physics"
+    volume: 14
+    number: 5
+    links:
+      PDF: "bassereau2012.pdf"
+
+  - title: "A Single-Molecule Hershey-Chase Experiment"
+    author: "David Van Valen<sup>*</sup>, David Wu<sup>*</sup>, Yi-Ju Chen, Hannah tuson, Paul Wiggins, and Rob Phillips (<sup>*</sup>contributed equally)."
+    journal: "Current Biology"
+    volume: 22
+    number: (14)
+    links:
+      PDF: "VanValen_Wu_2012.pdf"
+      SI: "VanValen_Wu_SI_2012.pdf"
+      Raw Data: "Raw_data_120415.pdf"
+
+  - title: "Sequence Dependence of Transcription Factor-Mediated DNA Looping"
+    author: "Stephanie Johnson, Martin Lindén, and Rob Phillips."
+    journal: "Nucleic Acids Research"
+    volume: 40
+    number: (16)
+    links:
+      DOI: 10.1093/nar/gks47s
+      PDF: "Johnson2012.pdf"
+      SI:  "TPM-JfactorMeasurements-SI-120530SJ.pdf"
+
+  - title: "Operator sequence alters gene expression independently of transcription factor occupancy in bacteria"
+    author: "Hernan G. Garcia, Alvaro Sanchez, James Q. Boedicker, Melisa Osborne, Jeff Gelles, Jané Kondev, and Rob Phillips."
+    journal: "Cell Reports"
+    volume: 2
+    number: (1)
+    links:
+      PDF and SI: "Garcia2012a.pdf"
+
+  - title: "Single-Cell Census of Mechanosensitive Channels in Living Bacteria"
+    author: "Maja Bialecka-Fornal, Heun Jin Lee, Hanna A. DeBerg, Chris S. Ghandi, and Rob Phillips."
+    journal: PLoS One
+    volume: 7
+    number: (3)
+    links:
+      PDF: "bialecka_fornal_lee_2012.pdf"
+
+  - title: "Entropic Tension in Crowded Membranes"
+    author: "Martin Lindén, Pierre Sens, and Rob Phillips."
+    jounral: "PLoS Computational Biology"
+    volume: 8
+    number: (3)
+    links:
+      DOI: 10.1371/journal.pcbi.1002431
+      PDF: "Linden2012.pdf"
+
+2011:
+  - title: "Mechanosensitive Channels: What Can They Do and How Do they Do it?"
+    author: "Martin Lindén, Elizabeth S. Haswell, Douglas C. Rees, and Rob Phillips."
+    journal: "Structure"
+    volume: 19
+    number: (10)
+    links:
+      PDF: "Haswell2011.pdf"
+
+  - title: "Probing Individual Environmental Bacteria for Viruses by Using Microfluidic Digital PCR"
+    author: "Arbel D. Tadmor, Elizabeth A. Oettesen, Jared R. Leadbetter, and Rob Phillips."
+    journal: Science
+    volume: 333
+    number: (58)
+    links:
+      PDF: "Tadmor2011.pdf"
+      SI: "Tadmor2011supp.pdf"
+
+  - title: "Lipid Bilayer Mechanics In A Pipette With Glass-Bilayer Adhesion"
+    author: "Tristan Ursell, Ashutosh Agrawal, and Rob Phillips."
+    journal: "Biophysical Journal"
+    volume: 101
+    number: (8)
+    links:
+      PDF: "Ursell2011.pdf"
+
+  - title: "Comparison and Calibration of Different Reporters for Quantitative Analysis of Gene Expression"
+    author: "Hernan G. Garcia, Heun Jin Lee, and James Q. Boedicker"
+    journal: "Biophysical Journal"
+    volume: 101
+    number: (3)
+    links:
+      PDF: "Garcia2011BiophysJ.pdf"
+      SI: "Garcia2011BiophysJ_SI.pdf"
+
+  - title: "Quantitative dissection of the simple repression input-output function"
+    author: "Hernan G. Garcia and Rob Phillips."
+    journal: "PNAS"
+    links:
+      PDF: "Garcia2011c.pdf"
+      SI: "Garcia2011cSupp.pdf"
+
+  - title: "Elastic energy of polyhedral bilayer vesicles"
+    author: "Christoph Haselwandter and Rob Phillips."
+    journal: "Physical Review E"
+    volume: 83
+    number: (6)
+    links:
+      PDF: "Haselwandter_2011.pdf"
+
+  - title: "Building Enhancers From the Ground Up: A Synthetic Biology Approach"
+    author: "Roee Amit, Hernan G. Garcia, Rob Phillips, and Scott E. Fraser"
+    journal: "Cell"
+    volume:  146
+    number: (1)
+    links:
+      PDF: "Amit2011.pdf"
+      SI: "Amit2011supp.pdf"
+
+
+  - title: "Effect of promoter architecture on the cell-to-cell variability in gene expression"
+    author: "Alvaro Sanchez, Hernan G. Garcia, Daniel Jones, Rob Phillips, and Jané Kondev."
+    journal: "PLoS Computational Biology"
+    volume: 7
+    number: (3)
+    links:
+      PDF: "SanchezKondevPhillipsPLoSCompBiol2011.pdf"
+
+
+  - title: "Morphological Phase Diagram for Lipid Membrane Domains with Entropic Tension"
+    author: "J. Rim, Tristan S. Ursell, Rob Phillips, and William Klug."
+    journal: "Physical Review Letters"
+    volume: 106
+    number: (5)
+    links:
+      PDF: "Rim_Klug_Ursell_2010.pdf"
+
+  - title: "Thermodynamics of Biological Processes."
+    author: "Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie Theriot, and Rob Phillips."
+    journal: "Methods in Enzymology"
+    volume: 492
+    number: (27)
+    links:
+      PDF: "Garcia2011a.pdf"
+
+2010:
+  - title: "An equivalence between a Maximum Caliber analysis of two-state kinetics and the Ising model"
+    author: "Sarah Marzen, David Wu, Mandar Inamdar, and Rob Phillips."
+    journal: "arXiv"
+    links:
+      DOI: "arXiv:1008.2726"
+      PDF: "Marzen2010.pdf"
+
+  - title: "Dynamical fluctuations in biochemical reactions and cycles"
+    author: "Steve Pressé, Kingshuk Ghosh, Ken A. Dill, and Rob Phillips."
+    journal: Physical Review E
+    volume: 82
+    number: (3)
+    links:
+      PDF: "Presse2010.pdf"
+
+  - title: "Minimal Bending Energies of Bilayer Polyhedra"
+    author: "Christoph Haselwandter and Rob Phillips."
+    journal: "Physical Review Letters"
+    volume: 105
+    number: (22)
+    links:
+      PDF: "Haselwandter2010.pdf"
+
+  - title: "SnapShot: Key Numbers in Biology"
+    author: "Uri Moran, Rob Phillips, and Ron Milo."
+    journal: "Cell"
+    volume: 101
+    number: (7)
+    links:
+      PDF: "SnapShot2010.pdf"
+
+  - title: "Transcription by the Numbers Redux: Experiments and Calculations that Surprise."
+    author: "Hernan G. Garcia, Alvaro Sanchez, Thomas Kuhlman, Jané Kondev, and Rob Phillips."
+    journal: "Trends in Cell Biology"
+    volume: 20
+    number: (12)
+    links:
+      PDF: "Garcia2010.pdf"
+
+  - title: "Ion-dependent dynamics of DNA ejections for bacteriophage λ"
+    author: "David Wu<sup>*</sup>, David Van Valen<sup>*</sup>, Qicong Hu, and Rob Phillips (<sup>*</sup>contributed equally)."
+    journal: "Biophysical Journal"
+    volume: 99
+    number: (4)
+    links:
+      PDF: "Wu_VanValen_2010.pdf"
+      SI: "Wu_VanValen_2010_Sup.pdf"
+      Video: "Movie-S1.avi"
+
+2009:
+  - title: "A Feeling for the Numbers in Biology"
+    author: "Rob Phillips and Ron Milo."
+    journal: "PNAS"
+    volume: 106
+    number: (51)
+    links:
+      PDF: "Phillips2009.pdf"
+
+  - title: "Lipid Domain Order and the Algebra of Morphology"
+    author: "Tristan S. Ursell and Rob Phillips"
+    journal: "arXiv"
+    links:
+      DOI: "arXiv:0905.1405"
+      PDF: "Ursell2009.pdf"
+
+  - title: "Morphology and Interaction Between Lipid Domains"
+    author: "Tristan Ursell, William Klug, and Rob Phillips."
+    journal: "PNAS"
+    volume: 106
+    number: (32)
+    links:
+      PDF and SI: "UrsellKlug2009.pdf"
+
+  - title: "Trajectory Approach to Two-State Kinetics of Single Particles on Sculpted Energy Landscapes"
+    author: "David Wu, Kingshuk Ghosh, Mandar Inamdar, Heun Jin Lee, Scott Fraser, Ken Dill, and Rob Phillips."
+    journal: "Physical Review Letters"
+    volume: 113
+    links:
+      PDF: "WuGhosh2009.pdf"
+
+  - title: "First-priniciples calculation of DNA looping in tethered particle experiments"
+    author: "Kevin B. Towles, John F. Beausang, Hernan G. Garcia, Philip C. Nelson, and Rob Phillips."
+    journal: "Physical Biology"
+    volume: 6
+    number: (2)
+    links:
+      PDF: "Towles2009.pdf"
+
+  - title: "Reduced amino acid alphabets can improve the sensitivity and selectivity of pairwise sequence alignments"
+    author: "Eric L. Peterson, Jané Kondev, Julie A. Theriot, and Rob Phillips."
+    journal: "Bioinformatics"
+    volume: 25
+    number: (11)
+    links:
+      PDF: "Peterson2009.pdf"
+      SI: "Peterson2009supp.pdf"
+      Website: "/supplementspeterson2009/HP/Welcome.html"
+
+  - title: "Concentration and Length Dependence of DNA Looping in Transcriptional Regulation"
+    author: "Lin Han, Hernan G. Garcia, Seth Blumberg, Kevin B. Towles, John F. Beausang, Philip C. Nelson, and Rob Phillips."
+    journal: "PLoS One"
+    volume: 4
+    number: (5)
+    links:
+      PDF: "Han2009.pdf"
+
+  - title: "Emerging roles for lipids in shaping membrane-protein function"
+    author: "Tristan S. Ursell, Paul Wiggins, Pierre Sens, and Rob Phillips."
+    journal: "Nature"
+    volume: 459
+    number: (7245)
+    links:
+      PDF: "final_online_version.pdf"
+
+  - title: "Chemistry on a leash: The roles otether length and geometry in signal integration proteins"
+    author: "David Van Valen, Mikko Haataja, and Rob Phillips."
+    journal: "Biophysical Journal"
+    volume: 96
+    number: (4)
+    links:
+      PDF: "vanvalen2009.pdf"
+
+
+2008:
+  - title: "Physical Biology of the Cell"
+    author: "Rob Phillips, Jané Kondev, Julie Theriot, and Nigel Orme."
+    journal: "Garland Science"
+    volume: "November"
+    links:
+      Book Website: "http://www.garlandscience.com/textbooks/0815341636.asp"
+      Erratum: "http://www.rpgroup.caltech.edu/publications/PBoC_Erratum.pdf"
+
+  - title: "Calibration of tethered particle motion experiments"
+    author: "Lin Han, Bertrand Lui, Seth Blumberrg, John F. Beausang, Philip C. Nelson, and Rob Phillips."
+    journal: "Mathematics of DNA Structure, Function and Interactions (IMA Volumes in Mathematics and its Applications)"
+    links:
+      PDF: "nelson.pdf"
+
+  - title: "Membrane shape as a reporter for applied forces"
+    author: "Heun Jin Lee, Eric L. Peterson, William S. Klug, Paul A. Wiggins, and Rob Phillips"
+    journal: "PNAS"
+    volume: 105
+    number: (49)
+    links:
+      PDF: "Lee2008.pdf"
+      SI: "Lee2008supp.pdf"
+      Nature News Feature: "Lee2008nature.pdf"
+  - title: "Biology by the numbers"
+    author: "Rob Phillips. Chapter in 'Physical Biology: From Atoms to Medicine' edited by A. Zewail."
+    journal: "Imperial College Press"
+    links:
+      PDF: "Phillips2007.pdf"
+
+  - title: "Membrane Mechanics as a Probe of Ion-channel Gating Mechanisms"
+    author: "Daniel Reeves, Tristan S. ursell, Pierre Sens, Rob Phillips, and Jané Kondev."
+    journal: "Physical Review E"
+    volume: 78
+    links:
+      DOI: "10.1103/PhysRevE.78.0941901"
+      PDF: "Reeves2008.pdf"
+
+2007:
+  - title: "A First Exposure to Statistical Mechanics for Life Scientists"
+    author: "Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie A. Theriot, and Rob Phillips"
+    journal: "<b> Rejected </b> by American Journal of Physics"
+    links:
+      PDF: "Garcia2007b.pdf"
+
+  - title: "Real-time observations of single bacteriophage λ DNA ejections <i> in vitro</i>"
+    author: "Paul Grayson, lin Han, Tabita Winther, and Rob Phillips."
+    journal: "PNAS"
+    volume: 104
+    number: (37)
+    links:
+      PDF: "grayson2007.pdf"
+
+  - title: "Cooperative Gating and Spatial Organization of Membrane Proteins through Elastic Interactions"
+    author: "Tristan S. ursell, Kerwyn Casey Huang, Eric L. Peterson, and Rob Phillips."
+    journal: "PLoS Computational Biology"
+    volume: 3
+    number: (5)
+    links:
+      PDF: "Ursell2007.pdf"
+
+  - title: "The Role of Lipid Bilayer Mechanics in Mechanosensation"
+    author: "Tristan S. Ursell, Jané Kondev, Dan Reeves, Paul A. Wiggins, and Rob Phillips"
+    journal: 'Mechanosensitivity in Cells and Tissues 1: Mechanosensitive Ion Channels. Spring-Verlag'
+    links:
+      PDF: "reviewUrselletal2007.pdf"
+
+  - title: "Measuring Flux Distributions for Diffusion in the Small-Numbers Limit"
+    author: "Effrosyni Seitaridou, Mandar M. INamdar, Kingshuk Ghosh, Ken A. Dill, and Rob Phillips."
+    journal: "Journal of Physical Chemistry B"
+    volume: 111
+    number: (9)
+    links:
+      DOI: "10.1021/jp067036"
+      PDF: "jp067036jSeitaridou2007.pdf"
+
+  - title: "Biological Consequences of Tightly Bent DNA: The Other Life of a Macromolecular Celebrity"
+    author: "Hernan G. Garcia, Paul Grayson, Lin Han, Mandar Inamdar, Jané Kondev, Philip C. Nelson, Jonathan Widom, Paul A. Wiggins, and Rob Phillips."
+    journal: "Biopolymers"
+    volume: 85
+    number: (2)
+    links:
+      PDF: "Garcia2007a.pdf"
+
+2006:
+  - title: "High flexibility of DNA on short length scales probed by atomic force microscopy"
+    author: "Paul A. Wiggins, Thijn van der Heijden, Fernando Moreno Herrero, Andrew Spakowitz, Jonathan Widom, Cees Dekker, Philip C. Nelson, and Rob Phillips."
+    journal: "Nature Nanotechnology"
+    volume: 1
+    number: (2)
+    links:
+      PDF: "Wiggins2006.pdf"
+
+  - title: "The Biological Frontier of Pnysics"
+    author: "Rob Phillips and Steve Quake."
+    journal: "Physics Today"
+    volume: 59
+    number: (5)
+    links:
+      PDF: "Phillips2006.pdf"
+
+  - title: "Excluded-Volume Effects in Tehtered-Particle Experiments: Bead Size Matters"
+    author: "Darrren E. Segall, Philip C. Nelson, and Rob Phillips."
+    journal: "Physical Review Letters"
+    volume: 96
+    number: (8)
+    links:
+      PDF: "Segall2005.pdf"
+
+  - title: "Dynamics of DNA Ejection From Bacteriophage"
+    author: "Mandar M. Inamdar, William M. Gelbart, and Rob Phillips."
+    journal: "Biophysical Journal"
+    volume: 91
+    number: (2)
+    links:
+      PDF: "Inamdar2006.pdf"
+
+  - title: "The Effect of Genome Length on Ejection Forces in Bacteriophage Lambda"
+    author: "Paul Grayson, Alex Evilevitch, Mandar M. Inamdar, Prashant K. Purohit, William M. Gelbart, Charles M. Knobler, and Rob Phillips."
+    journal: "Virology"
+    volume: 348
+    number: (2)
+    links:
+      PDF: "grayson2006.pdf"
+
+  - title: "Teaching the Prinicples of Statistical Dynamics"
+    author: "Kingshuk Ghosh, Ken A. Dill,  Mandar M. Inamdar, Effrosyni Seitaridou, and Rob Phillips."
+    journal: "American Journal of Physics"
+    volume: 74
+    number: (2)
+    links:
+      PDF: "dill2006.pdf"
+
+2005:
+  - title: "Finite Temperature Quasicontinuum: Molecular Dynamics without all the Atoms"
+    author: "L. Dupuy, E. B. Tadmor, R.E. Miller, and Rob Phillips."
+    journal: "Physical Review Letters"
+    volume: 95
+    number:
+      Publisher: "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.060202"
+
+  - title: "Transcriptional Regulation by the Numbers 1: Models"
+    author: "Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, Ulrigh Gerland, Ternce Hwa, Jané Kondev, and Rob Phillips."
+    journal: "Current Opinion in Genetics & Development"
+    volume: 15
+    number: (2)
+    links:
+      PDF: "bintu2005a.pdf"
+
+  - title: "Transcriptional Regulation by the Numbers 2: Applications"
+    author: "Lacramioara Bintu, Nicolas E. Buchler, Hernan G. Garcia, Ulrigh Gerland, Terence Hwa, Jané Kondev, Thomas Kuhlman, and Rob Phillips."
+    journal: "Current Opinion in Genetics & Development"
+    volume: 15
+    number: (2)
+    links:
+      PDF: "bintu2005b.pdf"
+
+  - title: "Exact theory of kinkable elastic polymers"
+    author: "Paul A. Wiggins, Philip C. Nelson, and Rob Phillips."
+    journal: "Physical Review E"
+    volume: 71
+    links:
+      PDF: "wiggins2005b.pdf"
+
+  - title: "Membrane-Protein INteractions in Mechanosensitive Channels"
+    author: "Paul A. Wiggins and Rob Phillips."
+    journla: "Biophysical Journal"
+    volume: 88
+    links:
+      DOI: "10.1529/biophysj.104.047431"
+      PDF: "wiggins2005a.pdf"
+
+  - title: "Forces during Bacteriophage DNA Packaging and Ejection"
+    author: "Prashant K. Purohit, Mandar M. Inamdar, Paul D. Grayson, Todd M. Squires, Jané Kondev, and Rob Phillips."
+    journal: "Biophysical Journal"
+    volume: 88
+    number: (2)
+    links:
+      PDF: "purohit2005.pdf"
+      Erratum: "http://www.cell.com/biophysj/fulltext/S0006-3495(07)71326-7"
+
+  - title: "Spare the Rod: The surprising Response of DNA in a Tight Situation"
+    author: "Paul A. Wiggins, Philip C. Nelson, and Rob Phillips"
+    journal: "Originally slated as commentary in PNAS"
+    links:
+      PDF: "Phillips2005.pdf"
+
+2004:
+  - title: "Mechanics of Biological Nanotechnology"
+    author: "Prashant K. Purohit, Jané Kondev, and Rob Phillips edited by B.Bhushan."
+    journal: "Handbook of Nanotechology."
+    links:
+      Publisher Website: "http://www.springeronline.com/sgw/cda/frontpage/0,10735,4-40024-22-4262495-0,00.html"
+
+  - title: "Modeling the stuff of the Material World: Do We Need All of the Atoms?"
+    author: "Rob Phillips"
+    journal: "The Bridge"
+    volume: 34
+    number: (4)
+    links:
+      PDF: "Phillips2004.pdf"
+
+  - title: "Analytic models for mechanotransduction: Gating a mechanosensitive channel"
+    author: "Paul Wiggins and Rob Phillips."
+    journal: "PNAS"
+    volume: 101
+    number: (12)
+    links:
+      PDF: "wiggins2004.pdf"
+
+2003:
+  - title: "Force steps during viral DNA packaging?"
+    author: "Prashant K. Purohit, Jané Kondev, and Rob Phillips."
+    journal: "Journal of the Mechanics and Physics of Solids"
+    volume: 51
+    number: (11)
+    links:
+      Publisher Website: "http://www.sciencedirect.com/science/article/pii/S0022509603001583"
+
+  - title: "Mechanics of DNA packaging in viruses"
+    author: "Prashant K. Purohit, Jané Kondev, and Rob Phillips."
+    journal: "PNAS"
+    volume: 100
+    number: (6)
+    links:
+      PDF: "purohit2003.pdf"
+
+2002:
+  - title: "Modeling in Engineering - The Challenge of Multiple Scales"
+    author: "Rob Phillips."
+    journal: "ENGenious"
+    links:
+      PDF: "Phillips2002.pdf"
+
+2001:
+  - title: "Crystals, Defects, and Microstructures"
+    author: "Rob Phillips."
+    journal: "Cambridge University Press"
+    links:
+      Publisher Website: "http://books.cambridge.org/0521793572.htm"

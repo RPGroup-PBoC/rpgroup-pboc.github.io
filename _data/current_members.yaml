@@ -1,0 +1,138 @@
+
+- name: Stephanie Barnes
+  title: Graduate Student
+  image: sbarnes
+  email: sbarnes
+  office: 71 Broad
+  mc: 114-96
+  ext: 8889
+
+- name: Celene Barrera
+  title: Lab Manager & Assistant
+  image: celene
+  email: celene
+  office: 158 Broad
+  mc: "M-F: 8:30 AM - 5:30 PM"
+  ext: 6464
+
+- name: Suzy Beeler
+  title: Graduate Student
+  image: sbeeler
+  email: sbeeler
+  office: 153 Broad
+  mc: 11416
+  ext: 3106
+
+- name: Nathan Belliveau
+  title: Graduate Student
+  image: nathan
+  email: nbellive
+  office: 153 Broad
+  mc: 114-96
+  ext: 3106
+
+- name: Helen Bermudez-Foley
+  title: Postdoctoral Scholar
+  image: helen
+  email: hmbermud
+  office: 155 Broad
+  mc: 114-96
+  ext: 5876
+
+
+- name: Adam Catching
+  title: Technician and Course Assistant
+  image: adamcatching
+  email: adamcat
+  mc: 114-96
+  office: 132 Broad
+  ext: 8889
+
+- name: Griffin Chure
+  title: Graduate Student
+  image: gchure
+  email: gchure
+  office: 155 Broad
+  mc: 114-96
+  ext: 5876
+
+- name: Tal Einav
+  title: Graduate Student
+  image: TalEinav
+  email: tal.einav
+  office: 155 Broad
+  mc: 114-96
+  ext: 5876
+
+- name: Vahe Galstyan
+  title: Graduate Student
+  image: vahe
+  email: vgalstyan
+  office: 132 Broad
+  mc: 114-96
+  ext: 8889
+
+- name: Soichi Hirokawa (Left)
+  title: Graduate Student
+  image: soichi
+  office: 155 Broad
+  email: shirokaw
+  ext: 5876
+
+- name: Bill Ireland
+  title: Graduate Student
+  image: billireland
+  office: 132 Broad
+  email: wireland
+
+
+- name: Heun Jin Lee
+  title: Staff Scientist
+  image: heunjin
+  email: heunjin
+  office: 71 Broad
+  mc: 114-96
+  ext: 8842
+
+- name: Gita Mahmoudabadi
+  title: Graduate Student
+  image: gita
+  email: gita
+  office: 153 Broad
+  mc: 114-96
+  ext: 3106
+
+- name: Muir Morrison
+  title: Graduate Student
+  image: muir
+  email: muir
+  office: 155 Broad
+  mc: 114-96
+  ext: 5876
+
+
+- name: Rob Phillips
+  title: Fred and Nancy Morris Professor of Biophysics and Biology
+  homepage: /people/phillips.html
+  image: rob
+  email: phillips
+  office: 159 Broad
+  mc: 114-96
+  ext: 3374
+
+- name: Manuel Razo
+  title: Graduate Student
+  image: manuel
+  email: mrazomej
+  office: 132 Broad
+  mc: 114-96
+  ext: 5876
+
+
+- name: Franz Weinert
+  title: Postdoctoral Scholar
+  image: franz
+  office: 153 Broad
+  mc: 114-96
+  email: weinert
+  ext: 3106
