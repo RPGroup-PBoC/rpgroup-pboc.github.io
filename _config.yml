@@ -2,8 +2,8 @@
 # title: Forty
 # subtitle: by HTML5 UP
 
-description: Physical Biology of the Cell
-baseurl: "/forty-jekyll-theme/" # the subpath of your site, e.g. /blog
+description: RP Lab - PBoC
+baseurl: ""
 url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
@@ -13,6 +13,5 @@ tiles-count: 6
 
 # Build settings
 markdown: kramdown
-
 sass:
   style: compressed

@@ -1,6 +1,19 @@
 2017:
-  - title: "An allosteric theory of transcription factor induction"
-    author: "Manuel Razo-Mejia <sup> * </sup>, Stephanie Barnes <sup> * </sup>, Nathan Belliveau <sup> * </sup>, Griffin Chure <sup> * </sup>, Tal Einav <sup> * </sup>, and Rob Phillips (<sup> * </sup> contributed equally)."
+  - title: "Self-consistent theory of transcriptional control in complex regulatory architectures"
+    author: Jaspar Landman, Robert C. Brewster, Franz M. Weinert, Willem K. Kegel, and Rob Phillips.
+    journal: PLOS ONE
+    links:
+      DOI: "10.1371/journal.pone.0179235"
+      PDF: Landman_et_al_2017.pdf
+
+  - title: "Membranes by the Numbers"
+    author: Rob Phillips. Edited by Patricia Bassereau and Pierre Sens. To appear in
+    journal: Physics of Biological Membranes
+    links:
+        PDF: "Phillips2017a.pdf"
+
+  - title: "Tuning transcriptional regulation through signaling: A predictive theory of allosteric induction"
+    author: "Manuel Razo-Mejia <sup> ☭ </sup>, Stephanie Barnes <sup> ☭ </sup>, Nathan Belliveau <sup>	☭ </sup>, Griffin Chure <sup> ☭ </sup>, Tal Einav <sup>☭</sup>, Mitch Lewis, and Rob Phillips (<sup> ☭ </sup> contributed equally)."
     journal: bioRxiv
     links:
       PDF: "RazoMejia_et_al_2017.pdf"
@@ -19,9 +32,12 @@
 
   - title: "The Energetic Cost of Building a Virus"
     author: "Gita Mahmoudabadi, Ron Milo, and Rob Phillips."
-    journal: "preprint on ArXiv"
+    journal: "PNAS"
+    volume: 114
+    number: (22)
     links:
-      PDF: "Mahmoudabadi2017.pdf"
+      DOI: "10.1073/pnas.1701670114"
+      PDF: "Mahmoudabadi2017a.pdf"
 
 2016:
   - title: "Statistical Mechanics of Allosteric Enzymes"

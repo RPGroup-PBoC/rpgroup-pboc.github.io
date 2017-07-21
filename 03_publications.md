@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 image: assets/images/publications.png
-permalink: publications
+permalink: publications/index.html
 ---
 ## Textbooks
 
@@ -39,13 +39,13 @@ href="http://www.rpgroup.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
 {% assign links = p.links %}
 
 **{{ p.title }}** by {{ p.author }} <i>{{ p.journal }}</i>
-  {{ p.volume  }} {{ p.number }} {{ year[0] }}. {% for val in links %} \|{% if val[0] == 'DOI' %} DOI: {{ val[1] }}. {% elsif val[1] contains 'http:' %} [{{ val[0] }}]({{ val[1] }})  {% else %} [{{ val[0] }}]({{ site.baseurl }}/pubs/{{ val[1] }}) {% endif %} {% endfor %}{% endfor %}
+  {{ p.volume  }} {{ p.number }} {{ year[0] }}. {% for val in links %} \|{% if val[0] == 'DOI' %} DOI: {{ val[1] }}. {% elsif val[1] contains 'http:' %} [{{ val[0] }}]({{ val[1] }})  {% else %} [{{ val[0] }}]({{ site.baseurl }}/pub_files/{{ val[1] }}) {% endif %} {% endfor %}{% endfor %}
 {% endfor %}
 {% endfor %}
 
 
 ## Notes and Corrections
-* In "**Cooperative Gating and Spatial Organization of Membrane Proteins through Elastic Interactions**" by Tristan S. Ursell, Kerwyn Casey Huang, Eric L. Peterson, and Rob Phillips (PLoS Comp. Bio. 2007), the numerator should be
+* In "**Cooperative Gating and Spatial Organization of Membrane Proteins through Elastic Interactions**" by Tristan S. Ursell, Kerwyn Casey Huang, Eric L. Peterson, and Rob Phillips (PLoS Comp. Bio. 2007), the numerator of equation 14 should be
 z(0,1) + z(1,1).
 Please see the [arXiv version](http://arxiv.org/PS_cache/q-bio/pdf/0702/0702031v1.pdf)
 

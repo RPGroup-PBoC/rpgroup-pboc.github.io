@@ -2,7 +2,7 @@
 layout: post
 title: People
 image: assets/images/people_new.jpg
-permalink: people
+permalink: people/index.html
 ---
 ## Current Members
 
@@ -30,7 +30,7 @@ permalink: people
 ## Visitors and Friends
 
 {% for person in site.data.friends %}
-<div id="person-im" style="height: 150px">
+<div id="person-im" style="max-height: 150px">
 <figure>
 <b>{{ person.name }}</b><br/>
 <img src="{{ site.baseurl }}/assets/images/people/{{ person.image }}.jpg">
@@ -51,11 +51,6 @@ permalink: people
 <br />
 {% endif %}
 {{ person.title }}<br />
-<!-- <figcaption> -->
 </figure>
 </div>
-<!-- {{ person.office }} - M/C {{ person .mc }}<br /> -->
-<!-- <span style="font-family: Courier; font-size: 10pt"> @ {{ person.email }} -->
-<!-- </span><br /> -->
-<!-- </figcaption> -->
 {% endfor %}

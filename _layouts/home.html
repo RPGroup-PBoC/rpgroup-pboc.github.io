@@ -17,19 +17,18 @@
         <div class="inner">
             <header class="major" style="text-align: center;">
                 <h1>{{ page.landing-title }} | <span style="font-size: 0.5em; text-transform: uppercase;"> {{ page.subtitle }}</span></h1>
+                <br/>
+                <img width="50%" src="{{ site.baseurl }}/assets/images/logo.png">
             </header>
 
     </section>
 
     <!-- Main -->
     <div id="main">
-
         <section id="two">
-          <!-- {% if page.title != 'Research' %} -->
             <div class="inner" style="margin-top: 0em; margin-bottom: 0px;">
                 <p style="font-size: 14pt;">{{ page.content }}</p>
             </div>
-          <!-- {% endif %} -->
         </section>
 
         {% include tiles.html %}

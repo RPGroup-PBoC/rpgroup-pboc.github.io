@@ -43,7 +43,7 @@ Physical Biology of the Cell:
 
   Cold Spring Harbor Laboratory:
     - year: 2017
-      link: 'http://www.rpgroup-pboc.github.io/cshl_pboc'
+      link: 'https://rpgroup-pboc.github.io/cshl_pboc'
     - year: 2015
       link: 'PBoC_CSHL_2015'
     - year: 2013
@@ -53,9 +53,9 @@ Physical Biology of the Cell:
 
   Gwangju Institute of Science and Technology:
     - year: 2017
-      link: 'http://www.rpgroup-pboc.github.io/gist_pboc_2017'
+      link: 'https://rpgroup-pboc.github.io/gist_pboc_2017'
     - year: 2016
-      link: 'http://www.rpgroup-pboc.github.io/gist_pboc_2016'
+      link: 'https://rpgroup-pboc.github.io/gist_pboc_2016'
     - year: 2014
       link: 'PBoC GIST 2014'
     - year: 2013
@@ -74,7 +74,7 @@ Physical Biology of the Cell:
 Evolution:
   Bi/Ge/ESE105 at Caltech:
     - year: 2016
-      link: 'https://www.rpgroup-pboc.github.io/bige105_2016'
+      link: 'https://rpgroup-pboc.github.io/bige105_2016'
     - year: 2015
       link: '2014_Bi105'
     - year: 2014
@@ -116,7 +116,7 @@ Introductory Biology:
 Summer Courses At The Marine Biological Laboratory:
   Physiology:
     - year: 2016
-      link: 'http://www.rpgroup-pboc.github.io/MBL_Physiology_2016'
+      link: 'https://rpgroup-pboc.github.io/MBL_Physiology_2016'
     - year: 2015
       link: "Physiology Matlab 2015"
     - year: 2014
@@ -124,7 +124,7 @@ Summer Courses At The Marine Biological Laboratory:
 
   Physical Biology of the Cell:
     - year: 2016
-      link: 'http://www.rpgroup-pboc.github.io/mbl_pboc_2016'
+      link: 'https://rpgroup-pboc.github.io/mbl_pboc_2016'
 
   Gene Regulatory Networks:
     - year: 2014
