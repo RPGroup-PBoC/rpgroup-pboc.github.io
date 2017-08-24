@@ -30,7 +30,7 @@
   mc: 114-96
   ext: 3106
 
-- name: Helen Bermudez-Foley
+- name: Helen Bermudez Foley
   title: Postdoctoral Scholar
   image: helen
   email: hmbermud
@@ -38,14 +38,6 @@
   mc: 114-96
   ext: 5876
 
-
-- name: Adam Catching
-  title: Technician and Course Assistant
-  image: adamcatching
-  email: adamcat
-  mc: 114-96
-  office: 132 Broad
-  ext: 8889
 
 - name: Griffin Chure
   title: Graduate Student
@@ -57,6 +49,7 @@
 
 - name: Tal Einav
   title: Graduate Student
+  link: http://www.its.caltech.edu/~teinav/
   image: TalEinav
   email: tal.einav
   office: 155 Broad
