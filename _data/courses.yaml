@@ -115,6 +115,8 @@ Introductory Biology:
 
 Summer Courses At The Marine Biological Laboratory:
   Physiology:
+    - year: 2017
+      link: "http://rpgroup-pboc.github.io/mbl_physiology"
     - year: 2016
       link: 'https://rpgroup-pboc.github.io/MBL_Physiology_2016'
     - year: 2015
@@ -123,8 +125,10 @@ Summer Courses At The Marine Biological Laboratory:
       link: "Physiology Matlab 2014"
 
   Physical Biology of the Cell:
+    - year: 2017
+      link: "http://rpgroup-pboc.github.io/mbl_pboc"
     - year: 2016
-      link: 'https://rpgroup-pboc.github.io/mbl_pboc_2016'
+      link: 'https://rpgroup-pboc.github.io/mbl_pboc/2016/home.html'
 
   Gene Regulatory Networks:
     - year: 2014

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research
-image: /assets/images/research_new.jpg
+image: assets/images/research_new.jpg
 permalink: research/index.html
 ---
 

@@ -4,7 +4,9 @@ title: Publications
 image: assets/images/publications.png
 permalink: publications/index.html
 ---
-## Textbooks
+
+<!-- Section just for books -- Don't touch this unless you're adding another one -->
+## Books
 
 <div style="height: 200px">
 
@@ -25,11 +27,19 @@ href="http://www.garlandscience.com/product/isbn/9780815344506">Book
 Website</a> | <a
 href="http://www.rpgroup.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
 </div>
+
+<br/>
+<div style="height: 200px;">
+<br /> <br/>
+<img src="{{ site.baseurl }}/assets/images/crystals.jpg" style="height: 200px;  padding-right: 10px; float: left; text-align: top; margin-right: 10 px;">
+<b><span> </span>  Crystals, Defects and Microstructures: Modeling Across Scales </b> by Rob Phillips. <i> Cambridge University Press</i>, 2001. | <a href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521793575"> Book Website</a>
+</div>
 <br />
 <br />
 <br />
 <br />
 
+<!-- Section for publications. Don't add them here directly. Add new publications to /data/pubs.yaml. The following code reads directly from that file. -->
 ## Publications
 
 {% for year in site.data.pubs %}

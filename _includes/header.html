@@ -5,6 +5,7 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
+		<span style="margin-left: 1px;"><a href="{{ site.baseurl }}/index.html"> Home </a></span>
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
@@ -14,11 +15,11 @@
 	<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
-		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
+		        <li><a href="{{site.baseurl}}/index.html">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
-		    {% if page.layout != "home" %}
+		    {% if (page.layout != "home") and (page.title != "404 - Page Not Found") and (page.title != "Rob Phillips")%}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}

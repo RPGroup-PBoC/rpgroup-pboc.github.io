@@ -3,10 +3,19 @@
   location: Caltech
   link: "http://bois.caltech.edu"
 
+- name: Hernan Garcia
+  image: hernan_colab
+  link: "https://mcb.berkeley.edu/labs/garcia"
+
 - name: Willem Kegel
   image: kegel
   location: Universiteit Utrecht
   link: "https://www.uu.nl/staff/WKKegel/0"
+
+- name: Jané Kondev
+  image: kondev
+  location: Brandeis University
+  link: "http://people.brandeis.edu/~kondev/"
 
 - name: Justin Kinney
   image: kinney
@@ -23,7 +32,22 @@
   location: Indiana University
   link: "http://www.indiana.edu/~lynchlab/"
 
+- name: Ron Milo
+  image: milo
+  location: Weizmann Institute of Science
+  link: "https://www.weizmann.ac.il/plants/Milo/"
+
 - name: Armita Nourmohammed
   image: armita
   location: Princeton University
   link: "http://scholar.princeton.edu/armitan"
+
+- name: Phil Nelson
+  image: nelson
+  location: University of Pennsylvania
+  link: "http://www.physics.upenn.edu/~pcn/"
+
+- name: Julie Theriot
+  image: theriot
+  location: Stanford University
+  link: "http://cmgm.stanford.edu/theriot/"

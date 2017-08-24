@@ -3,6 +3,7 @@ layout: home
 title: Home
 landing-title: 'Rob Phillips Group'
 subtitle: "Physical Biology of the Cell"
+permalink: /index.html
 description:
 image: null
 author: null
@@ -20,8 +21,8 @@ Bioengineering</a>, <a href="http://www.cce.caltech.edu/content/biochemistry-and
 Biophysics</a>, <a href="http://www.aphms.caltech.edu">
 Applied Physics</a>, and
 <a href="http://www.pma.caltech.edu/content/physics">Physics</a>. Some of our current
-principal research threads focus on the broad questions of how genomes are
+principal research threads focus on broad questions of how genomes are
 organized both in sequence and spatially to regulate the expression of
 their genes, how the flow of energy through biological systems gives rise
-to their impressive fidelity and questions of the diversity and ecological
-role of viruses in natural environments.
+to their impressive fidelity, and questions on the diversity and ecological
+role of viruses in their natural environments.

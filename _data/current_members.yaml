@@ -1,9 +1,8 @@
-
 - name: Stephanie Barnes
   title: Graduate Student
   image: sbarnes
   email: sbarnes
-  office: 71 Broad
+  office: 132 Broad
   mc: 114-96
   ext: 8889
 
@@ -117,6 +116,7 @@
   image: rob
   email: phillips
   office: 159 Broad
+  link: "/personal_pages/rob/index.html"
   mc: 114-96
   ext: 3374
 

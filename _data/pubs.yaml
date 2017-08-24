@@ -27,8 +27,8 @@
     links:
       DOI: "10.1021/acs/jpcb/6b12672"
       PDF: "Einav2017.pdf"
-      SI: "Einav2017_SI.pdf"
-      Mathematica Notebook: "Einav2017_SI.nb"
+      SI: "Einav2017_SI_1.pdf"
+      Mathematica Notebook: "Einav2017_SI_2.nb"
 
   - title: "The Energetic Cost of Building a Virus"
     author: "Gita Mahmoudabadi, Ron Milo, and Rob Phillips."
@@ -265,7 +265,7 @@
     volume: 338
     number: (6114)
     links:
-      PDF: "Vale 2012 - Interdisciplinary Graduate Training in Teaching Labs"
+      PDF: "Vale2012.pdf"
 
   - title: "Tuning Promoter Strength Through RNA Polymeras eBinding Site Design in <i>Escherichia coli</i>"
     author: "Robert C. Brewster, Daniel Jones, and Rob Phillips."
@@ -510,7 +510,7 @@
     links:
       PDF: "Peterson2009.pdf"
       SI: "Peterson2009supp.pdf"
-      Website: "/supplementspeterson2009/HP/Welcome.html"
+      Website: "supplements/peterson2009/HP/Welcome.html"
 
   - title: "Concentration and Length Dependence of DNA Looping in Transcriptional Regulation"
     author: "Lin Han, Hernan G. Garcia, Seth Blumberg, Kevin B. Towles, John F. Beausang, Philip C. Nelson, and Rob Phillips."
@@ -528,7 +528,7 @@
     links:
       PDF: "final_online_version.pdf"
 
-  - title: "Chemistry on a leash: The roles otether length and geometry in signal integration proteins"
+  - title: "Chemistry on a leash: The roles of tether length and geometry in signal integration proteins"
     author: "David Van Valen, Mikko Haataja, and Rob Phillips."
     journal: "Biophysical Journal"
     volume: 96
@@ -675,7 +675,7 @@
     author: "L. Dupuy, E. B. Tadmor, R.E. Miller, and Rob Phillips."
     journal: "Physical Review Letters"
     volume: 95
-    number:
+    links:
       Publisher: "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.060202"
 
   - title: "Transcriptional Regulation by the Numbers 1: Models"
@@ -701,7 +701,7 @@
     links:
       PDF: "wiggins2005b.pdf"
 
-  - title: "Membrane-Protein INteractions in Mechanosensitive Channels"
+  - title: "Membrane-Protein Interactions in Mechanosensitive Channels"
     author: "Paul A. Wiggins and Rob Phillips."
     journla: "Biophysical Journal"
     volume: 88

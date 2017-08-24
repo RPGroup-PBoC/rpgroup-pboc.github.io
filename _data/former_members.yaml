@@ -310,29 +310,33 @@
 
 - name: Vivek Shenoy
   title: Professor, Brown University
+  image: vivek
   homepage: http://www.cascv.brown.edu/~shenoy/
 
 - name: Vijay Shenoy
   title: Professor, IIS Bangalore
+  image: vijay
   homepage: http://mrc.iisc.ernet.in/~shenoy/
 
 - name: Harley Johnson
   title: Professor, University of Illinois
+  image: harley
   homepage: http://www.mie.uiuc.edu/johnson/people.html
 
 - name: Ron Miller
   title: Professor, Carleton University
+  image: ron_miller
   homepage: http://www.mae.carleton.ca/~rmiller/
 
 - name: Ellad Tadmor
-  title: Professor, Israel Institute of Technology
-  homepage: http://tx.technion.ac.il/~tadmor/
+  image: ellad_tadmor
 
-- name: Dyanesh Pawaskar
+- name: Dnyanesh Pawaskar
   title: Professor, Indian Institute of Technology, Bombay
   homepage: http://www.me.iitb.ac.in/~pawaskar/
 
 - name: David Rodney
+  image: drodney
   title: Professor, INP Grenoble
   homepage: http://www.gpm2.inpg.fr/perso/druk.html
 

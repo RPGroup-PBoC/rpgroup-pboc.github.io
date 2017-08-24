@@ -1,4 +1,6 @@
 _site
 pub_files
 *.pdf
+*.DS_Store
+*.DS_store
 

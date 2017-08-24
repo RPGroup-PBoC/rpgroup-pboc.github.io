@@ -1,6 +1,6 @@
 s3_id: AKIAJ2DXFGLVMIC36B3Q
 s3_secret: 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
-s3_bucket: aws-website-rpgroup-pc8l0
+s3_bucket: staging.rpgroup.caltech.edu
 cloudfront_distribution_id: E2ZPAD3XUJA22T
 
 # set s3_token if using temporary credentials with a session token (eg: when assuming a role)
@@ -13,7 +13,7 @@ cloudfront_distribution_id: E2ZPAD3XUJA22T
 ignore_on_server: _DELETE_NOTHING_ON_THE_S3_BUCKET_
 
 index_document: index.html
-error_document: 404.html
+error_document: error.html
 
 # max_age:
 #   "assets/*": 6000
