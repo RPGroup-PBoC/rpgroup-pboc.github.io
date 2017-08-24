@@ -44,6 +44,7 @@
   people:
     - name: Tal
       photo: TalEinav
+      link: "http://www.its.caltech.edu/~teinav/"
     - name: Stephanie
       photo: sbarnes
     - name: Manuel
@@ -75,8 +76,6 @@
     photo: franz
   - name: Helen
     photo: helen
-  - name: Adam
-    photo: adamcatching
   - name: Griffin
     photo: gchure
   - name: Bill
