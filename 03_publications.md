@@ -42,6 +42,7 @@ href="http://www.rpgroup.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
 <!-- Section for publications. Don't add them here directly. Add new publications to /data/pubs.yaml. The following code reads directly from that file. -->
 ## Publications
 
+{% assign pub_serv = "http://rpdata.caltech.edu/publications/" %}
 {% for year in site.data.pubs %}
 <span style="display: block; width: 100%; text-align: center; font-size: 18pt; font-weight: 600;">{{ year[0] }}</span>
 {% for paper in year %}
@@ -49,7 +50,7 @@ href="http://www.rpgroup.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
 {% assign links = p.links %}
 
 **{{ p.title }}** by {{ p.author }} <i>{{ p.journal }}</i>
-  {{ p.volume  }} {{ p.number }} {{ year[0] }}. {% for val in links %} \|{% if val[0] == 'DOI' %} DOI: {{ val[1] }}. {% elsif val[1] contains 'http:' %} [{{ val[0] }}]({{ val[1] }})  {% else %} [{{ val[0] }}]({{ site.baseurl }}/pub_files/{{ val[1] }}) {% endif %} {% endfor %}{% endfor %}
+  {{ p.volume  }} {{ p.number }} {{ year[0] }}. {% for val in links %} \|{% if val[0] == 'DOI' %} DOI: {{ val[1] }}. {% elsif val[1] contains 'http' %} [{{ val[0] }}]({{ val[1] }})  {% else %} [{{ val[0] }}]({{pub_serv}}{{ val[1] }}) {% endif %} {% endfor %}{% endfor %}
 {% endfor %}
 {% endfor %}
 
