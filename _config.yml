@@ -4,7 +4,7 @@
 
 description: RP Lab - PBoC
 baseurl: ""
-url: "" # the base hostname & protocol for your site
+url: "rpgroup.caltech.edu" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
