@@ -105,7 +105,7 @@
      PDF: "NapoleonEquilibrium.pdf"
 
   - title: "Single-molecule analysis of RAG-mediated V(D)J DNA cleavage."
-    author: "Geoffrey Lovely, Robert C. Brewster, David Baltimore, and Rob Phillips."
+    author: "Geoffrey A. Lovely, Robert C. Brewster, David G. Schatz, David Baltimore, and Rob Phillips."
     journal: PNAS
     volume: 112
     number: (14)
@@ -164,7 +164,7 @@
       PDF: "Flamholz2014.pdf"
 
   - title: "Multiple LacI-mediated loops revealed by Bayesian statistics and tethered particle motion"
-    author: "Stephanie Johnson, Jan-Willem van de Meent, Chris H. Wiggins, Martin Lindén, and Rob Phillips."
+    author: "Stephanie Johnson, Jan-Willem van de Meent, Rob Phillips, Chris H. Wiggins, and Martin Lindén."
     journal: Nucleic Acids Research
     links:
       PDF: "Johnson2014.pdf"
@@ -182,7 +182,7 @@
   - title: "Distinct structural features of TFAM drive mitochondrial DNA packaging versus transcriptional activation"
     author: "Huu Ngo, Geoffrey Lovely, Rob Phillips, and David Chan."
     journal: "Nature Communications"
-    volume: 5
+    volume: "5:3077"
     links:
       PDF: "Lovely2014.pdf"
       SI: "Lovely2014_SI.pdf"
