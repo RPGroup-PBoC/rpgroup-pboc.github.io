@@ -27,7 +27,7 @@
     links:
       PDF: "RazoMejia_et_al_2017.pdf"
       SI: "RazoMejia_et_al_2017_SI.pdf"
-      Website: "http://rpgroup-pboc.github.io/mwc_induction"
+      Website: "http://rpgroup.caltech.edu/mwc_induction"
       Repository: "http://www.github.com/rpgroup-pboc/mwc_induction"
 
   - title: "Monod-Wyman-Changeux Analysis of Ligand-Gated Ion Channel Mutants"
