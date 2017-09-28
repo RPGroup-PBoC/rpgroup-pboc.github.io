@@ -1,9 +1,13 @@
 2017:
-  - title: "Musing on Mechanism: Quest for a Quark Theory of Proteins?"
+  - title: "Musings on mechanism: quest for a quark theory of proteins?"
     author: Rob Phillips.
-    journal: To appear in FAESB Journal
+    journal: The FAESB Journal
+    volume: 31
+    number: (10)
     links:
+      DOI: 10.1096/fj201700594
       PDF: "Phillips2017b.pdf"
+      
   - title: "Self-consistent theory of transcriptional control in complex regulatory architectures"
     author: Jaspar Landman, Robert C. Brewster, Franz M. Weinert, Willem K. Kegel, and Rob Phillips.
     journal: PLOS ONE
