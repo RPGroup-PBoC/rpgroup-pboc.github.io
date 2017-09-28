@@ -1,6 +1,11 @@
 _site
-pub_files
 *.pdf
 *.DS_Store
 *.DS_store
-
+*.tmp
+*.swp
+*.log
+*.bbl
+*.*~
+*.DNG
+*.NEF
