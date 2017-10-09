@@ -173,6 +173,14 @@
     links:
       PDF: "Johnson2014.pdf"
 
+  - title: "Comparison of the theoretical and real-world evolutionary potential of a genetic circuit"
+    author: "Manuel Razo-Mejia, James Q. Boedicker,A DeLuna, Justin B. Kinney, and Rob Phillips."
+    journal: "Physical Biology"
+    volume: 11
+    links:
+      PDF: "RazoMejia_2014.pdf"
+      SI: "RazoMejia_2014_SI.pdf"
+      
   - title: "The Transcription Factor Titration Effect Dictates Level of Gene Expression"
     author: "Robert C. Brewster<sup>*</sup>, Franz M. Weinert<sup>*</sup>, Hernan G. Garcia, Dan Song, Mattias Rydenfelt, and Rob Phillips (<sup>*</sup>contributed equally)."
     journal: Cell
