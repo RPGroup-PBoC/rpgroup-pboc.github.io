@@ -25,8 +25,7 @@
     author: "Manuel Razo-Mejia <sup> ☭ </sup>, Stephanie Barnes <sup> ☭ </sup>, Nathan Belliveau <sup>	☭ </sup>, Griffin Chure <sup> ☭ </sup>, Tal Einav <sup>☭</sup>, Mitch Lewis, and Rob Phillips (<sup> ☭ </sup> contributed equally)."
     journal: bioRxiv
     links:
-      PDF: "RazoMejia_et_al_2017.pdf"
-      SI: "RazoMejia_et_al_2017_SI.pdf"
+      PDF+SI: "RazoMejia_et_al_2017.pdf"
       Website: "http://rpgroup.caltech.edu/mwc_induction"
       Repository: "http://www.github.com/rpgroup-pboc/mwc_induction"
 
@@ -180,7 +179,7 @@
     links:
       PDF: "RazoMejia_2014.pdf"
       SI: "RazoMejia_2014_SI.pdf"
-      
+
   - title: "The Transcription Factor Titration Effect Dictates Level of Gene Expression"
     author: "Robert C. Brewster<sup>*</sup>, Franz M. Weinert<sup>*</sup>, Hernan G. Garcia, Dan Song, Mattias Rydenfelt, and Rob Phillips (<sup>*</sup>contributed equally)."
     journal: Cell
