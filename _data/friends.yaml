@@ -3,9 +3,19 @@
   location: Caltech
   link: "http://bois.caltech.edu"
 
+- name: Jasna Brujic
+  image: jasna_brujic
+  location: NYU
+  link: "https://wp.nyu.edu/brujiclab/"
+
 - name: Hernan Garcia
   image: hernan_colab
+  location: UC Berkeley
   link: "https://mcb.berkeley.edu/labs/garcia"
+
+- name: Christina Heuschen
+  image: christina_heuschen
+  location: UCSF
 
 - name: Willem Kegel
   image: kegel
@@ -51,3 +61,7 @@
   image: theriot
   location: Stanford University
   link: "http://cmgm.stanford.edu/theriot/"
+
+- name: Shahrzad Yazdi
+  image: shahrzad_yazi
+  location: MIT
