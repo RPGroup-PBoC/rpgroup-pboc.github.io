@@ -6,6 +6,16 @@
       PDF: "Phillips2018a.pdf"
       Contest website: "https://fqxi.org/community/essay/rules"
 
+  - title: "Tuning transcriptional regulation through signaling: A predictive theory of allosteric induction"
+    author: "Manuel Razo-Mejia <sup> ☭ </sup>, Stephanie Barnes <sup> ☭ </sup>, Nathan Belliveau <sup>	☭ </sup>, Griffin Chure <sup> ☭ </sup>, Tal Einav <sup>☭</sup>, Mitch Lewis, and Rob Phillips (<sup> ☭ </sup> contributed equally)."
+    journal: Cell Systems
+    volume: 6
+    links:
+      PDF+SI: "RazoMejia_et_al_2018.pdf"
+      Appendix: "RazoMejia_et_al_2018_Appendix.pdf"
+      Website: "http://rpgroup.caltech.edu/mwc_induction"
+      Repository: "http://www.github.com/rpgroup-pboc/mwc_induction"
+
 2017:
   - title: "A systematic approach for dissecting the molecular mechanisms of transcriptional regulation in bacteria"
     author: "Nathan M. Belliveau, Stephanie L. Barnes, William T. Ireland, Daniel L. Jones, Michael Sweredoski, Annie Moradian, Sonja Hess, Justin B. Kinney, and Rob Phillips."
@@ -18,6 +28,7 @@
     journal: "preprint on Arxiv."
     links:
       PDF: "EinavDuque2017.pdf"
+
   - title: "The role of DNA sequence in nucleosome breathing"
     author: "Jami Culkin, Lennart de Bruin, Marco Tompitak, Rob Phillips,
     and  Helmut Schiessel."
@@ -27,6 +38,7 @@
     links:
       DOI: 10.1140/epje/i2017-11596-2
       PDF: "Phillips2017c.pdf"
+
   - title: "Musings on mechanism: quest for a quark theory of proteins?"
     author: Rob Phillips.
     journal: The FAESB Journal
@@ -49,15 +61,7 @@
     links:
         PDF: "Phillips2017a.pdf"
 
-  - title: "Tuning transcriptional regulation through signaling: A predictive theory of allosteric induction"
-    author: "Manuel Razo-Mejia <sup> ☭ </sup>, Stephanie Barnes <sup> ☭ </sup>, Nathan Belliveau <sup>	☭ </sup>, Griffin Chure <sup> ☭ </sup>, Tal Einav <sup>☭</sup>, Mitch Lewis, and Rob Phillips (<sup> ☭ </sup> contributed equally)."
-    journal: bioRxiv
-    links:
-      PDF+SI: "RazoMejia_et_al_2017.pdf"
-      Website: "http://rpgroup.caltech.edu/mwc_induction"
-      Repository: "http://www.github.com/rpgroup-pboc/mwc_induction"
-
-  - title: "Monod-Wyman-Changeux Analysis of Ligand-Gated Ion Channel Mutants"
+    - title: "Monod-Wyman-Changeux Analysis of Ligand-Gated Ion Channel Mutants"
     author: "Tal Einav and Rob Phillips."
     journal: Journal of Physical Chemistry B.
     links:
