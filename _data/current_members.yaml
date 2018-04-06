@@ -36,6 +36,7 @@
 
 - name: Griffin Chure
   title: Graduate Student
+  link: "http://gchure.github.io"
   image: gchure
   email: gchure
   office: 155 Broad
@@ -44,7 +45,7 @@
 
 - name: Tal Einav
   title: Graduate Student
-  link: http://www.its.caltech.edu/~teinav/
+  link: "http://www.its.caltech.edu/~teinav/"
   image: TalEinav
   email: tal.einav
   office: 155 Broad
