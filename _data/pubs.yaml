@@ -1,4 +1,24 @@
 2018:
+  - title: "A systematic approach for dissecting the molecular mechanisms of transcriptional regulation in bacteria"
+    author: "Nathan M. Belliveau, Stephanie L. Barnes, William T. Ireland, Daniel L. Jones, Michael Sweredoski, Annie Moradian, Sonja Hess, Justin B. Kinney, and Rob Phillips."
+    journal: "PNAS"
+    volume: "In Press"
+    links:
+      PDF: "Belliveau2017.pdf"
+
+  - title: A comprehensive quantitative exploration of thousands of viral genomes"
+    author: 'Gita Mahmoudabadi and Rob Phillips.'
+    journal: 'eLife'
+    volume: "7:e31955"
+    links:
+     Proof PDF: "Mahmoudabad2018a.pdf"
+     DOI: "10.7554/eLife.31955"
+
+  - title: "Two-stage dynamics of *in vivo* bacteriophage genome ejection"
+    author: "Yi-Ju Chen, David Wu, William Gelbart, Charles M. Knobler, Rob Phillips, and Willem K. Kegel."
+    journal: "Physical Review X"
+    volume: "In Press"
+
   - title: "Superpowers Beyond the Reach of Kryptonite"
     author: "Rob Phillips."
     journal: "for the FQXi Essay Contest: What is 'Fundamental'?"
@@ -17,12 +37,6 @@
       Repository: "http://www.github.com/rpgroup-pboc/mwc_induction"
 
 2017:
-  - title: "A systematic approach for dissecting the molecular mechanisms of transcriptional regulation in bacteria"
-    author: "Nathan M. Belliveau, Stephanie L. Barnes, William T. Ireland, Daniel L. Jones, Michael Sweredoski, Annie Moradian, Sonja Hess, Justin B. Kinney, and Rob Phillips."
-    journal: "preprint on BioRxiv."
-    links:
-      PDF: "Belliveau2017.pdf"
-
   - title: "Theoretical Analysis of Inducer and Operator Binding for Cyclic-AMP Receptor Protein Mutants"
     author: "Tal Einav, Julia Duque, and Rob Phillips."
     journal: "preprint on Arxiv."
