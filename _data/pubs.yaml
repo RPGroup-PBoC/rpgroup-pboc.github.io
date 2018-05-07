@@ -2,9 +2,11 @@
   - title: "A systematic approach for dissecting the molecular mechanisms of transcriptional regulation in bacteria"
     author: "Nathan M. Belliveau, Stephanie L. Barnes, William T. Ireland, Daniel L. Jones, Michael Sweredoski, Annie Moradian, Sonja Hess, Justin B. Kinney, and Rob Phillips."
     journal: "PNAS"
-    volume: "In Press"
+    volume: "online print"
     links:
+      DOI: "pnas.org/cgi/doi/10.1073/pnas.1722055115"
       PDF: "Belliveau2017.pdf"
+      SI: "Belliveau2017_SI.pdf"
 
   - title: A comprehensive quantitative exploration of thousands of viral genomes"
     author: 'Gita Mahmoudabadi and Rob Phillips.'
