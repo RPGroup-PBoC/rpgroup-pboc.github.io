@@ -1,4 +1,13 @@
 2018:
+  - title: "The biomass distribution on Earth"
+    author: "Yinon M. Bar-On, Rob Phillips, and Ron Milo."
+    journal: "PNAS"
+    volume: "online print"
+    links:
+      DOI: "pnas.org/cgi/doi/10.1073/pnas.1711842115"
+      PDF: "Bar-On_2018.pdf"
+      SI: "Bar-On_2018_SI.pdf"
+
   - title: "A systematic approach for dissecting the molecular mechanisms of transcriptional regulation in bacteria"
     author: "Nathan M. Belliveau, Stephanie L. Barnes, William T. Ireland, Daniel L. Jones, Michael Sweredoski, Annie Moradian, Sonja Hess, Justin B. Kinney, and Rob Phillips."
     journal: "PNAS"
