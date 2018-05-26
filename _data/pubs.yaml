@@ -1,4 +1,11 @@
 2018:
+  - title: "Mapping DNA sequence to transcription factor binding energy *in vivo*"
+  - author: "Stephanie L. Barnes, Nathan M. Belliveau, William T. Ireland, Justin B. Kinney, and Rob Phillips."
+  - journal: "preprint on bioRxiv"
+  - links:
+        DOI: "https://doi.org/10.1101/331124"
+        PDF + SI: "Barnes_et_al_2018.pdf"
+        Github Repository: "https://github.com/rpgroup-pboc/sequence_mapping.git"
   - title: "The biomass distribution on Earth"
     author: "Yinon M. Bar-On, Rob Phillips, and Ron Milo."
     journal: "PNAS"
