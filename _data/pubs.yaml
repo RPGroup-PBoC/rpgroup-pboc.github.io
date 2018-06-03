@@ -1,4 +1,13 @@
 2018:
+  - title: "Connecting the dots between mechanosensitive channel abundance, osmotic shock, and survival at single-cell resolution"
+    author: "Griffin Chure<sup>☭</sup>, Heun Jin Lee<sup>☭</sup>, and Rob Phillips."
+    journal: "preprint on bioRxiv"
+    links:
+      PDF: Chure2018a.pdf
+      SI: Chure2018a_supplement.pdf
+      Website: "http://rpgroup.caltech.edu/mscl_survival"
+      Github Repository: "https://github.com/rpgroup-pboc/mscl_survival.git"
+
   - title: "Mapping DNA sequence to transcription factor binding energy <i> in vivo</i>"
     author: "Stephanie L. Barnes, Nathan M. Belliveau, William T. Ireland, Justin B. Kinney, and Rob Phillips."
     journal: "preprint on bioRxiv"
@@ -6,6 +15,7 @@
         DOI: "https://doi.org/10.1101/331124"
         PDF + SI: "Barnes_et_al_2018.pdf"
         Github Repository: "https://github.com/rpgroup-pboc/sequence_mapping.git"
+
   - title: "The biomass distribution on Earth"
     author: "Yinon M. Bar-On, Rob Phillips, and Ron Milo."
     journal: "PNAS"
