@@ -23,7 +23,7 @@ permalink: publications/index.html
 <b>Physical Biology of the Cell, Second Edition</b> by Rob Phillips, Jané
 Kondev, Julie Theriot, Hernan Garcia, and illustrated by Nigel Orme. <i>Garland
 Science</i>, 2012. | <a
-href="http://www.garlandscience.com/product/isbn/9780815344506">Book
+href="http://www.rpgroup.caltech.edu/pboc2">Book
 Website</a> | <a
 href="http://www.rpgroup.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
 </div>
