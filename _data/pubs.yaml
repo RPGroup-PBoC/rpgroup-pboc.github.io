@@ -28,7 +28,8 @@
   - title: "A systematic approach for dissecting the molecular mechanisms of transcriptional regulation in bacteria"
     author: "Nathan M. Belliveau, Stephanie L. Barnes, William T. Ireland, Daniel L. Jones, Michael Sweredoski, Annie Moradian, Sonja Hess, Justin B. Kinney, and Rob Phillips."
     journal: "PNAS"
-    volume: "online print"
+    volume: "115"
+    issue: "(21)"
     links:
       DOI: "pnas.org/cgi/doi/10.1073/pnas.1722055115"
       PDF: "Belliveau2017.pdf"
@@ -45,7 +46,9 @@
   - title: "Two-stage dynamics of *in vivo* bacteriophage genome ejection"
     author: "Yi-Ju Chen, David Wu, William Gelbart, Charles M. Knobler, Rob Phillips, and Willem K. Kegel."
     journal: "Physical Review X"
-    volume: "In Press"
+    volume: "8"
+    links:
+      PDF: "Chen2018.pdf"
 
   - title: "Superpowers Beyond the Reach of Kryptonite"
     author: "Rob Phillips."
