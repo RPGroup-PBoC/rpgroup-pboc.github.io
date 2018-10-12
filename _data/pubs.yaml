@@ -646,7 +646,7 @@
     volume: "November"
     links:
       Book Website: "http://www.garlandscience.com/textbooks/0815341636.asp"
-      Erratum: "http://www.rpgroup.caltech.edu/publications/PBoC_Erratum.pdf"
+      Erratum: "http://www.rpdata.caltech.edu/publications/PBoC_Erratum.pdf"
 
   - title: "Calibration of tethered particle motion experiments"
     author: "Lin Han, Bertrand Lui, Seth Blumberrg, John F. Beausang, Philip C. Nelson, and Rob Phillips."

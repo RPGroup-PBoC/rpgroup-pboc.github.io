@@ -25,7 +25,7 @@ Kondev, Julie Theriot, Hernan Garcia, and illustrated by Nigel Orme. <i>Garland
 Science</i>, 2012. | <a
 href="http://www.rpgroup.caltech.edu/pboc2">Book
 Website</a> | <a
-href="http://www.rpgroup.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
+href="http://www.rpdata.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
 </div>
 
 <br/>
