@@ -1,4 +1,15 @@
 2018:
+  - title: "Connecting the dots between mechanosensitive channel abundance, osmotic shock, and survival at single-cell resolution"
+    author: "Griffin Chure<sup>☭</sup>, Heun Jin Lee<sup>☭</sup>, Akiko Rasmussen, and Rob Phillips (☭ contributed equally)."
+    journal: "Journal of Bacteriology"
+    volume: 200
+    issue: (32)
+    links:
+      PDF: Chure2018.pdf
+      SI: Chure2018a_SI.pdf
+      Website: "http://rpgroup.caltech.edu/mscl_survival"
+      Github Repository: "https://github.com/rpgroup-pboc/mscl_survival.git"
+
   - title: "Theoretical Analysis of Inducer and Operator Binding for Cyclic-AMP Receptor Protein Mutants"
     author: "Tal Einav, Julia Duque, and Rob Phillips."
     journal: "PLoS ONE"
@@ -14,15 +25,7 @@
       PDF: "Galimidi2018.pdf"
       SI: "Galimidi2018_SI.pdf"
       
-  - title: "Connecting the dots between mechanosensitive channel abundance, osmotic shock, and survival at single-cell resolution"
-    author: "Griffin Chure<sup>☭</sup>, Heun Jin Lee<sup>☭</sup>, and Rob Phillips (☭ contributed equally)."
-    journal: "preprint on bioRxiv"
-    links:
-      PDF: Chure2018a.pdf
-      SI: Chure2018a_supplement.pdf
-      Website: "http://rpgroup.caltech.edu/mscl_survival"
-      Github Repository: "https://github.com/rpgroup-pboc/mscl_survival.git"
-
+  
   - title: "Mapping DNA sequence to transcription factor binding energy <i> in vivo</i>"
     author: "Stephanie L. Barnes, Nathan M. Belliveau, William T. Ireland, Justin B. Kinney, and Rob Phillips."
     journal: "preprint on bioRxiv"
