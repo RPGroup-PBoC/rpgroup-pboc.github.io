@@ -14,8 +14,8 @@ Clark Millikan Visiting Assistant Professor, Caltech, 1997 <br/>
 Professor, 2000-Present <br/>
 
 
-## Talks and Essays
-
+## Talks, Essays, and Interviews 
+* "A Brief Conversation with Rob Phillips, Co-Director of Physical Biology of the Cell" for *The Well: MBL News from the Source*. [\[online video\]](http://social.mbl.edu/a-brief-conversation-with-rob-phillips-co-director-of-physical-biology-of-the-cell)
 * "Drunken Sailors, Coin Flips and How to Read Genomes" given during the *Friday Night Lecture Series* at the Marine Biological Laboratory, July 2017. [\[online video\]](http://videocenter.mbl.edu/videos/video/87/)
 * "Unusual Career Path Sparked by Stories about Science" - an interview with Heather Goldstone  for capeanislands.org. [\[online text\]](http://capeandislands.org/post/unusual-career-path-sparked-stories-about-science#stream/0)
 * "How Rob Became a Scientist" - an iBiology seminar about Rob's journey to be a scientist. [\[ online video\]](https://www.ibiology.org/ibiomagazine/rob-phillips-lee-cudlip-rob-became-scientist.html)
