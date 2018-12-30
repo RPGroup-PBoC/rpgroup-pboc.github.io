@@ -1,4 +1,18 @@
 2018:
+  - title: "Combinatorial Control Through Allostery" 
+    author: Vahe Galstyan<sup>☭</sup>, Luke Funk<sup>☭</sup>, Tal Einav, and Rob Phillips (☭ contributed equally).
+    journal: "Preprint on bioRxiv"
+    links:
+      PDF+SI: Galstyan2018.pdf
+      Jupyter Notebooks: Galstyan2018_Jupyter.zip
+      Mathematica Notebook: Galstyan2018_Figures.nb
+
+  - title: "Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression"
+    author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan Garcia, Manuel Razo-Mejia, and Clarissa Scholes"
+    journal: "Preprint on Arxiv"
+    links:
+      PDF+SI: Phillips2018b.pdf
+
   - title: "Connecting the dots between mechanosensitive channel abundance, osmotic shock, and survival at single-cell resolution"
     author: "Griffin Chure<sup>☭</sup>, Heun Jin Lee<sup>☭</sup>, Akiko Rasmussen, and Rob Phillips (☭ contributed equally)."
     journal: "Journal of Bacteriology"
@@ -60,7 +74,7 @@
       PDF: "Belliveau2017.pdf"
       SI: "Belliveau2017_SI.pdf"
 
-  - title: A comprehensive quantitative exploration of thousands of viral genomes"
+  - title: A comprehensive quantitative exploration of thousands of viral genomes
     author: 'Gita Mahmoudabadi and Rob Phillips.'
     journal: 'eLife'
     volume: "7:e31955"
@@ -582,7 +596,7 @@
     volume: 106
     number: (51)
     links:
-      PDF: "Phillips2009.pdf"
+      PDF: "PhillipsMilo2009.pdf"
 
   - title: "Lipid Domain Order and the Algebra of Morphology"
     author: "Tristan S. Ursell and Rob Phillips"
@@ -742,7 +756,7 @@
     links:
       PDF: "Wiggins2006.pdf"
 
-  - title: "The Biological Frontier of Pnysics"
+  - title: "The Biological Frontier of Physics"
     author: "Rob Phillips and Steve Quake."
     journal: "Physics Today"
     volume: 59
