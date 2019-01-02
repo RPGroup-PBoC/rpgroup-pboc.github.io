@@ -1,8 +1,16 @@
 2018:
+  - title: "Controlliing Organization and Forces in Active Matter Through Optically-Defined Boundaries"
+    author: Tyler D. Ross, Heun Jin Lee, Zijie Qu, Rachel A. banks, Rob Phillips, and Matt Thomson
+    journal: "Preprint on Arxiv"
+    links:
+      PDF+SI: Ross2018.pdf
+      DOI: "arxiv.org/abs/1812.09418"
+
   - title: "Combinatorial Control Through Allostery" 
     author: Vahe Galstyan<sup>☭</sup>, Luke Funk<sup>☭</sup>, Tal Einav, and Rob Phillips (☭ contributed equally).
     journal: "Preprint on bioRxiv"
     links:
+      DOI: "https://doi.org/10.1101/508226"
       PDF+SI: Galstyan2018.pdf
       Jupyter Notebooks: Galstyan2018_Jupyter.zip
       Mathematica Notebook: Galstyan2018_Figures.nb
@@ -11,6 +19,7 @@
     author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan Garcia, Manuel Razo-Mejia, and Clarissa Scholes"
     journal: "Preprint on Arxiv"
     links:
+      DOI: "https://arxiv.org/abs/1812.11627"
       PDF+SI: Phillips2018b.pdf
 
   - title: "Connecting the dots between mechanosensitive channel abundance, osmotic shock, and survival at single-cell resolution"
