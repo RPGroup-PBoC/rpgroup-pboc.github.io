@@ -69,3 +69,8 @@
 - name: Shahrzad Yazdi
   image: shahrzad_yazdi
   location: MIT
+
+- name: Aleksandra Walczak
+  image: aleks
+  location: ENS
+  link: "https://www.phys.ens.fr/~awalczak/"
