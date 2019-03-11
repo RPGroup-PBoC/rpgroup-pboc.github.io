@@ -24,7 +24,7 @@ Professor, 2000-Present <br/>
 * "A Vision for Quantitative Biology" given at the *IBioMagazine* in August, 2010. [\[online video\]](https://www.ibiology.org/professional-development/quantitative-biology/)
 * "How Cells Decide What to Eat" given during the *Winter Lecture Series* at the Aspen center for Physics, January 2008. [\[online video\]](http://www.rpgroup.caltech.edu/people/phillips/aspen_trim.mov)
 * An after dinner talk given at the National University of Singapore in March, 2007. [\[full text\]](http://www.rpgroup.caltech.edu/people/EverythingGoesInThePot.pdf)
-* Talk given at the Delbrück Centennial, January 2007. [\[online video\]](http://www.rpgroup.caltech.edu/people/phillips/delbruck_trim.mov)
+* Talk given at the Delbrück Centennial, January 2007. [\[online video\]](http://www.rpdata.caltech.edu/publications/delbruck_trim.mov)
 
 ## Contact Information
 
