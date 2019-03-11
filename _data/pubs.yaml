@@ -1,4 +1,12 @@
 2019:
+  - title: "Measuring the Energetic Costs of Embryonic Development" 
+    author: "Peter J. Foster, Manuel Razo-Mejia, and Rob Phillips" 
+    journal: "Developmental Cell"
+    volume: 48
+    links:
+      DOI: "https://doi.org/10.1016/j.devcel.201902.016"
+      pdf: "Foster2019.pdf"
+
   - title: "Microtubule End-Clustering Maintains a Steady-State Spindle Shape"
     author: Christina L. Hueschen, Vahe Galstyan, Meelad Amouzgar, Rob Phillips, and Sophie Dumont
     journal: "Current Biology" 
