@@ -1,11 +1,21 @@
 2019:
+  - title: "First-principles prediction of the information processing capacity of
+  a simple genetic circuit"
+    author: "Manuel Razo-Mejia and Rob Phillips"
+    journal: preprint on bioRxiv
+    links:
+      DOI: "https://doi.org/101101/594325"
+      PDF: RazoMejia2019.pdf
+      Paper Website: "https://www.rpgroup.caltech.edu/chann_cap/"
+      Github Repository: "https://github.com/RPGroup-PBoC/chann_cap"
+
   - title: "Measuring the Energetic Costs of Embryonic Development" 
     author: "Peter J. Foster, Manuel Razo-Mejia, and Rob Phillips" 
     journal: "Developmental Cell"
     volume: 48
     links:
       DOI: "https://doi.org/10.1016/j.devcel.201902.016"
-      pdf: "Foster2019.pdf"
+      PDf: "Foster2019.pdf"
 
   - title: "Microtubule End-Clustering Maintains a Steady-State Spindle Shape"
     author: Christina L. Hueschen, Vahe Galstyan, Meelad Amouzgar, Rob Phillips, and Sophie Dumont
