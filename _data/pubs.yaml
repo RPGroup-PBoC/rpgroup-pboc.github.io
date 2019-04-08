@@ -1,4 +1,20 @@
 2019:
+  - title: "Mapping DNA sequence to transcription factor binding energy <i> in vivo</i>"
+    author: "Stephanie L. Barnes, Nathan M. Belliveau, William T. Ireland, Justin B. Kinney, and Rob Phillips."
+    journal: "PLOS Computational Biology"
+    links:
+        DOI: "https://doi.org/10.1101/331124"
+        PDF: "Barnes2019.pdf"
+        Github Repository: "https://github.com/rpgroup-pboc/sequence_mapping.git"
+
+  - title: "How the Avidity of Polymerase Binding to the -35/-10 Prooter Sites
+  Affects Gene Expression"
+    author: "Tal Einav and Rob Phillips."
+    journal: "preprint on BioRxiv"
+    links:
+      DOI: "https://doi.org/10.1101/597989"
+      PDF + SI: "Einav2019b.pdf"
+
   - title: "First-principles prediction of the information processing capacity of
   a simple genetic circuit"
     author: "Manuel Razo-Mejia and Rob Phillips"
@@ -88,14 +104,6 @@
       SI: "Galimidi2018_SI.pdf"
       
   
-  - title: "Mapping DNA sequence to transcription factor binding energy <i> in vivo</i>"
-    author: "Stephanie L. Barnes, Nathan M. Belliveau, William T. Ireland, Justin B. Kinney, and Rob Phillips."
-    journal: "preprint on bioRxiv"
-    links:
-        DOI: "https://doi.org/10.1101/331124"
-        PDF + SI: "Barnes_et_al_2018.pdf"
-        Github Repository: "https://github.com/rpgroup-pboc/sequence_mapping.git"
-
   - title: "The biomass distribution on Earth"
     author: "Yinon M. Bar-On, Rob Phillips, and Ron Milo."
     journal: "PNAS"
