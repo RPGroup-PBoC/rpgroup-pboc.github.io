@@ -3,14 +3,6 @@
   title: Graduate Student
   email: rbanks
 
-- name: Celene Barrera
-  title: Lab Manager & Assistant
-  image: celene
-  email: celene
-  office: 158 Broad
-  mc: "M-F: 8:30 AM - 5:30 PM"
-  ext: 6464
-
 - name: Suzy Beeler
   title: Graduate Student
   image: sbeeler
@@ -45,6 +37,13 @@
   office: 132 Broad
   mc: 114-96
   ext: 8889
+
+- name: Jonathan Gross
+  title: Administrative Assistant
+  image: Jonathan
+  email: jpgross@caltech.edu
+  office: 158 Broad / 114-96
+  ext: 6337
 
 - name: Soichi Hirokawa (Left)
   title: Graduate Student
