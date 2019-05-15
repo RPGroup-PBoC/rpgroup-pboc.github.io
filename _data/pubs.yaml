@@ -1,4 +1,23 @@
 2019:
+  - title: "The Energetics of Molecular Adaptation in Transcriptional Regulation"
+    author: "Griffin Chure, Manuel Razo-Mejia, Nathan M. Belliveau, Tal Einav, Zofii A. Kaczmarek, Stephanie L. Barnes, Mitchell Lewis, and Rob Phillips"
+    journal: "preprint on BioRxiv"
+    links:
+      PDF: Chure2019a.pdf
+      SI: Chure2019a_SI.pdf
+      Website: "https://www.rpgroup.caltech.edu/mwc_mutants/"
+      Github Repository: "https://github.com/RPGroup-PBoC/mwc_mutants"
+
+  - title: "Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression"
+    author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan Garcia, Manuel Razo-Mejia, and Clarissa Scholes"
+    journal: "Annual Review of Biophysics"
+    volume: 48
+    links:
+      DOI: "https://doi.org/10.1146/annurev-biophys-052118-115525"
+      PDF: Phillips2019a.pdf
+      SI: Phillips2019a_SI.pdf
+
+
   - title: "How the Avidity of Polymerase Binding to the -35/-10 Promoter Sites
   Affects Gene Expression"
     author: "Tal Einav and Rob Phillips."
@@ -63,13 +82,6 @@
       PDF+SI: Galstyan2018.pdf
       Jupyter Notebooks: Galstyan2018_Jupyter.zip
       Mathematica Notebook: Galstyan2018_Figures.nb
-
-  - title: "Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression"
-    author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan Garcia, Manuel Razo-Mejia, and Clarissa Scholes"
-    journal: "Preprint on Arxiv"
-    links:
-      DOI: "https://arxiv.org/abs/1812.11627"
-      PDF+SI: Phillips2018b.pdf
 
   - title: "Connecting the dots between mechanosensitive channel abundance, osmotic shock, and survival at single-cell resolution"
     author: "Griffin Chure<sup>☭</sup>, Heun Jin Lee<sup>☭</sup>, Akiko Rasmussen, and Rob Phillips (☭ contributed equally)."
