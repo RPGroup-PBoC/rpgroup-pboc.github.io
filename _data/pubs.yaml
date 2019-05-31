@@ -1,4 +1,12 @@
 2019:
+  - title: "Torque-dependent remodeling of the bacterial flagellar motor"
+    author: "Navish Wadhwaa, Rob Phillips, and Howard C. Berg"
+    journal: "PNAS"
+    links:
+      DOI: "https://doi.org/10.1073/pnas.1904577116"
+      PDF: Wadhwa2019a.pdf
+      SI: Wadhwa2019a_SI.pdf
+
   - title: "The Energetics of Molecular Adaptation in Transcriptional Regulation"
     author: "Griffin Chure, Manuel Razo-Mejia, Nathan M. Belliveau, Tal Einav, Zofii A. Kaczmarek, Stephanie L. Barnes, Mitchell Lewis, and Rob Phillips"
     journal: "preprint on BioRxiv"
