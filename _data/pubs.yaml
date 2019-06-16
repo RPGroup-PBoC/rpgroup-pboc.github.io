@@ -1,4 +1,13 @@
 2019:
+
+  - title: "How the Avidity of Polymerase Binding to the -35/-10 Promoter Sites Affects Gene Expression"
+    author: "Tal Einav and Rob Phillips"
+    journal: "PNAS"
+    links:
+      DOI: "https://doi.org/10.1073/pnas.1905615116"
+      PDF: "Einav2019b.pdf"
+      SI: "Einav2019b_SI.pdf"
+
   - title: "Torque-dependent remodeling of the bacterial flagellar motor"
     author: "Navish Wadhwaa, Rob Phillips, and Howard C. Berg"
     journal: "PNAS"
@@ -25,15 +34,6 @@
       DOI: "https://doi.org/10.1146/annurev-biophys-052118-115525"
       PDF: Phillips2019a.pdf
       SI: Phillips2019a_SI.pdf
-
-
-  - title: "How the Avidity of Polymerase Binding to the -35/-10 Promoter Sites
-  Affects Gene Expression"
-    author: "Tal Einav and Rob Phillips."
-    journal: "preprint on BioRxiv"
-    links:
-      DOI: "https://doi.org/10.1101/597989"
-      PDF + SI: "Einav2019b.pdf"
 
   - title: "First-principles prediction of the information processing capacity of
   a simple genetic circuit"
