@@ -1,4 +1,12 @@
 2019:
+  - title: "Controlliing Organization and Forces in Active Matter Through Optically-Defined Boundaries"
+    author: Tyler D. Ross, Heun Jin Lee, Zijie Qu, Rachel A. banks, Rob Phillips, and Matt Thomson
+    journal: "Nature"
+    links:
+      DOI: "https://doi.org/10.1038/s41586-019-1447-1"
+      PDF: Ross2019.pdf
+      SI: Ross2019_SI.pdf
+      Videos: "https://www.nature.com/articles/s41586-019-1447-1#Sec3"
 
   - title: "How the Avidity of Polymerase Binding to the -35/-10 Promoter Sites Affects Gene Expression"
     author: "Tal Einav and Rob Phillips"
@@ -76,12 +84,6 @@
       PDF+SI: Mahmoudabadi2019.pdf
 
 2018:
-  - title: "Controlliing Organization and Forces in Active Matter Through Optically-Defined Boundaries"
-    author: Tyler D. Ross, Heun Jin Lee, Zijie Qu, Rachel A. banks, Rob Phillips, and Matt Thomson
-    journal: "Preprint on Arxiv"
-    links:
-      PDF+SI: Ross2018.pdf
-      DOI: "arxiv.org/abs/1812.09418"
 
   - title: "Combinatorial Control Through Allostery" 
     author: Vahe Galstyan<sup>☭</sup>, Luke Funk<sup>☭</sup>, Tal Einav, and Rob Phillips (☭ contributed equally).
