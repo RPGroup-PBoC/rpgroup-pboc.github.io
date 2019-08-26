@@ -1,4 +1,15 @@
 2019:
+
+  - title: "Predictive shifts in free energy couple mutations to their phenotypic consequences"
+    author: "Griffin Chure, Manuel Razo-Mejia, Nathan M. Belliveau, Tal Einav, Zofii A. Kaczmarek, Stephanie L. Barnes, Mitchell Lewis, and Rob Phillips"
+    journal: "PNAS"
+    links:
+      DOI: "https://doi.org/10.1073/pnas.1907869116"
+      PDF: Chure2019a.pdf
+      SI: Chure2019a_SI.pdf
+      Website: "https://www.rpgroup.caltech.edu/mwc_mutants/"
+      Github Repository: "https://github.com/RPGroup-PBoC/mwc_mutants"
+
   - title: "Controlling Organization and Forces in Active Matter Through Optically-Defined Boundaries"
     author: Tyler D. Ross, Heun Jin Lee, Zijie Qu, Rachel A. banks, Rob Phillips, and Matt Thomson
     journal: "Nature"
@@ -23,16 +34,6 @@
       DOI: "https://doi.org/10.1073/pnas.1904577116"
       PDF: Wadhwa2019a.pdf
       SI: Wadhwa2019a_SI.pdf
-
-  - title: "The Energetics of Molecular Adaptation in Transcriptional Regulation"
-    author: "Griffin Chure, Manuel Razo-Mejia, Nathan M. Belliveau, Tal Einav, Zofii A. Kaczmarek, Stephanie L. Barnes, Mitchell Lewis, and Rob Phillips"
-    journal: "preprint on BioRxiv"
-    links:
-      DOI: "https://doi.org/10.1101/638270"
-      PDF: Chure2019a.pdf
-      SI: Chure2019a_SI.pdf
-      Website: "https://www.rpgroup.caltech.edu/mwc_mutants/"
-      Github Repository: "https://github.com/RPGroup-PBoC/mwc_mutants"
 
   - title: "Figure 1 Theory Meets Figure 2 Experiments in the Study of Gene Expression"
     author: Rob Phillips, Nathan M. Belliveau, Griffin Chure, Hernan Garcia, Manuel Razo-Mejia, and Clarissa Scholes"
