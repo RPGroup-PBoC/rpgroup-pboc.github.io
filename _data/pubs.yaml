@@ -44,6 +44,15 @@
       PDF: Phillips2019a.pdf
       SI: Phillips2019a_SI.pdf
 
+  - title: "First-principles prediction of the information processing capacity of a simple genetic circuit"
+    author: "Manuel Razo-Mejia and Rob Phillips"
+    journal: preprint on bioRxiv
+    links:
+      DOI: "https://doi.org/101101/594325"
+      PDF: RazoMejia2019.pdf
+      Paper Website: "https://www.rpgroup.caltech.edu/chann_cap/"
+      Github Repository: "https://github.com/RPGroup-PBoC/chann_cap"
+
   - title: "Measuring the Energetic Costs of Embryonic Development" 
     author: "Peter J. Foster, Manuel Razo-Mejia, and Rob Phillips" 
     journal: "Developmental Cell"
@@ -67,6 +76,12 @@
     links:
       DOI: "https://doi.org/10.1016/j.cub.2019.01.016" 
       PDF: Hueschen2019.pdf
+
+  - title: "Human Phageprints: A high-resolution exploration of oral phages reveals globally-distributed phage families with individual-specific and temporally-stable community compositions"
+    author: Gita Mahmoudabadi, Kelsey Homyk, Adam Catching, Helen Foley, Arbel Tadmor, Ana Mahmoudabadi, Allison Cheung, and Rob Phillips.
+    journal: "Preprint on bioRxiv"
+    links:
+      PDF+SI: Mahmoudabadi2019.pdf
 
 2018:
 
@@ -108,6 +123,13 @@
       PDF: "Forcier2018.pdf"
       DOI: "http://doi.org/10.7554/eLife.40618"
   
+  - title: "Quantifying the entropic and Energetic Effects of Linker Length and Rigidity within Synthetic HIV-1 Antibodies designed to Bind Bivalently to Env Spikes"
+    author: "Rachel P. Galimidi<sup>☭</sup>, Tal Einav<sup>☭</sup>, Priyanthi N. P. Gnanapragasam, Devashis S. Joshi, Anne M. Lynch, Shahrzad Yazdi, Anthony P. West Jr., Rob Phillips, and Pamela J. Björkman (<sup>☭</sup> contributed equally)."
+    journal: "preprint on Arxiv"
+    links:
+      PDF: "Galimidi2018.pdf"
+      SI: "Galimidi2018_SI.pdf"
+
   - title: "The biomass distribution on Earth"
     author: "Yinon M. Bar-On, Rob Phillips, and Ron Milo."
     journal: "PNAS"
@@ -142,8 +164,15 @@
     links:
       PDF: "Chen2018.pdf"
 
+  - title: "Superpowers Beyond the Reach of Kryptonite"
+    author: "Rob Phillips."
+    journal: "for the FQXi Essay Contest: What is 'Fundamental'?"
+    links:
+      PDF: "Phillips2018a.pdf"
+      Contest website: "https://fqxi.org/community/essay/rules"
+
   - title: "Tuning transcriptional regulation through signaling: A predictive theory of allosteric induction"
-    author: "Manuel Razo-Mejia <sup> ☭ </sup>, Stephanie Barnes <sup> ☭ </sup>, Nathan Belliveau <sup>	☭ </sup>, Griffin Chure <sup> ☭ </sup>, Tal Einav <sup>☭</sup>, Mitch Lewis, and Rob Phillips (<sup> ☭ </sup> contributed equally)."
+    author: "Manuel Razo-Mejia <sup> ☭ </sup>, Stephanie Barnes <sup> ☭ </sup>, Nathan Belliveau <sup>  ☭ </sup>, Griffin Chure <sup> ☭ </sup>, Tal Einav <sup>☭</sup>, Mitch Lewis, and Rob Phillips (<sup> ☭ </sup> contributed equally)."
     journal: Cell Systems
     volume: 6
     links:
@@ -439,7 +468,7 @@
     links:
       PDF: "Vale2012.pdf"
 
-  - title: "Tuning Promoter Strength Through RNA Polymeras eBinding Site Design in <i>Escherichia coli</i>"
+  - title: "Tuning Promoter Strength Through RNA Polymerase Binding Site Design in <i>Escherichia coli</i>"
     author: "Robert C. Brewster, Daniel Jones, and Rob Phillips."
     journal: "PLoS Computational Biology"
     volume: 8
