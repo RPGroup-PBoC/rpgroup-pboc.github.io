@@ -276,6 +276,15 @@
     links:
       PDF: "phillips2015.pdf"
 
+  - title: "Predicting the impact of promoter variability on regulatory outputs"
+    author: "Naomi Kreamer, Rob Phillips, Dianne Newman, and James Boedicker"
+    journal: "Scientific Reports"
+    volume: 5
+    number: (18238)
+    links:
+      PDF: "Kreamer2015.pdf"
+      DOI: http://doi.org/10.1038/srep18238
+
   - title: "Interplay of Protein Binding Interactions, DNA Mechanics, and Entropy in DNA Looping Kinetics."
     author: "Peter Mulligan, Yi-Ju Chen, Rob Phillips, and Andrew Spakowitz."
     journal: "Biophysical Journal"
