@@ -2,9 +2,12 @@
 
   - title: "Sequence-Dependent Dynamics of Synthetic and Endogenous RSSs in V(D)J Recombination"
     author: "Soichi Hirokawa, Griffin Chure, Nathan M. Belliveau, Geoffrey A. Lovely, Michael Anaya, David G. Schatz, David Baltimore, and Rob Phillips"
-    journal: Submitted
+    journal: preprint on bioRxiv
     links: 
-      Preprint PDF+SI: Hirokawa2019.pdf 
+      PDF+SI: Hirokawa2019.pdf 
+      DOI: "https://doi.org/10.1101/791954"
+      Website: "https://www.rpgroup.caltech.edu/vdj_recombination/"
+      GitHub Repository: "https://github.com/RPGroup-PBoC/vdj_recombination"
 
   - title: "Predictive shifts in free energy couple mutations to their phenotypic consequences"
     author: "Griffin Chure, Manuel Razo-Mejia, Nathan M. Belliveau, Tal Einav, Zofii A. Kaczmarek, Stephanie L. Barnes, Mitchell Lewis, and Rob Phillips"
