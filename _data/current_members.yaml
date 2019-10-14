@@ -27,12 +27,6 @@
   email: aduarte
   office: 132 Broad
 
-- name: Rebecca Rousseau
-  title: Graduate Student
-  email: rroussea
-  image: rrousseau
-  office: 132 Broad
-
 - name: Vahe Galstyan
   title: Graduate Student
   image: vahe
@@ -103,6 +97,12 @@
   office: 132 Broad
   mc: 114-96
   ext: 5876
+
+- name: Rebecca Rousseau
+  title: Graduate Student
+  email: rroussea
+  image: rrousseau
+  office: 132 Broad
 
 - name: Gabe Salmon
   title: Graduate Student
