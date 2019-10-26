@@ -1,11 +1,18 @@
 2019:
+  - title: "Harnessing Avidity: Quantifying the Entropic and Energetic Effects of Linker Length and Rigidity for Multivalent Binding of Antibodies to HIV-1"
+    author: "Tal Einav, Shahrzad Yazdi, Aaron Coey, Pamela J. Bjorkman, and Rob Phillips"
+    journal: Cell Systems
+    links:
+      DOI: "https://doi.org/10.1016/j.cels.2019.09.007"
+      PDF: Einav2019c.pdf
+      SI: Einav2019c_SI.pdf 
 
   - title: "Sequence-Dependent Dynamics of Synthetic and Endogenous RSSs in V(D)J Recombination"
     author: "Soichi Hirokawa, Griffin Chure, Nathan M. Belliveau, Geoffrey A. Lovely, Michael Anaya, David G. Schatz, David Baltimore, and Rob Phillips"
     journal: preprint on bioRxiv
     links: 
-      PDF+SI: Hirokawa2019.pdf 
       DOI: "https://doi.org/10.1101/791954"
+      PDF+SI: Hirokawa2019.pdf 
       Website: "https://www.rpgroup.caltech.edu/vdj_recombination/"
       GitHub Repository: "https://github.com/RPGroup-PBoC/vdj_recombination"
 
