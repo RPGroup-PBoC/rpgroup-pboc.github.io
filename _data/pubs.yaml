@@ -138,13 +138,6 @@
     links: 
       PDF: "Forcier2018.pdf"
       DOI: "http://doi.org/10.7554/eLife.40618"
-  
-  - title: "Quantifying the entropic and Energetic Effects of Linker Length and Rigidity within Synthetic HIV-1 Antibodies designed to Bind Bivalently to Env Spikes"
-    author: "Rachel P. Galimidi<sup>☭</sup>, Tal Einav<sup>☭</sup>, Priyanthi N. P. Gnanapragasam, Devashis S. Joshi, Anne M. Lynch, Shahrzad Yazdi, Anthony P. West Jr., Rob Phillips, and Pamela J. Björkman (<sup>☭</sup> contributed equally)."
-    journal: "preprint on Arxiv"
-    links:
-      PDF: "Galimidi2018.pdf"
-      SI: "Galimidi2018_SI.pdf"
 
   - title: "The biomass distribution on Earth"
     author: "Yinon M. Bar-On, Rob Phillips, and Ron Milo."
