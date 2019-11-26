@@ -27,7 +27,7 @@
       Github Repository: "https://github.com/RPGroup-PBoC/mwc_mutants"
 
   - title: "Controlling Organization and Forces in Active Matter Through Optically-Defined Boundaries"
-    author: Tyler D. Ross, Heun Jin Lee, Zijie Qu, Rachel A. banks, Rob Phillips, and Matt Thomson
+    author: Tyler D. Ross, Heun Jin Lee, Zijie Qu, Rachel A. Banks, Rob Phillips, and Matt Thomson
     journal: "Nature"
     links:
       DOI: "https://doi.org/10.1038/s41586-019-1447-1"
@@ -100,8 +100,6 @@
     links:
       PDF+SI: Mahmoudabadi2019.pdf
 
-2018:
-
   - title: "Combinatorial Control Through Allostery" 
     author: Vahe Galstyan<sup>☭</sup>, Luke Funk<sup>☭</sup>, Tal Einav, and Rob Phillips (☭ contributed equally).
     journal: "J. Phys. Chem. B"
@@ -113,6 +111,8 @@
       SI: Galstyan2018_SI.pdf
       Jupyter Notebooks: Galstyan2018_Jupyter.zip
       Mathematica Notebook: Galstyan2018_Figures.nb
+
+2018:
 
   - title: "Connecting the dots between mechanosensitive channel abundance, osmotic shock, and survival at single-cell resolution"
     author: "Griffin Chure<sup>☭</sup>, Heun Jin Lee<sup>☭</sup>, Akiko Rasmussen, and Rob Phillips (☭ contributed equally)."
@@ -340,7 +340,7 @@
 
   - title: "Scaling of Gene Expression With Transcription Factor Fugacity"
     author: "Franz Weinert<sup>*</sup>, Rob Brewster<sup>*</sup>, Mattias Rydenfelt, Willem Kegel, and Rob Phillips."
-    journal: Physical Review Lettters
+    journal: Physical Review Letters
     volume: 113
     number: (25)
     links:
