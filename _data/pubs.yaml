@@ -1,4 +1,11 @@
 2019:
+  - title: Allostery and Kinetic Proofreading
+    author: Vahe Galstyan and Rob Phillips
+    journal: J. Phys. Chem. B
+    links:
+      DOI: "https://doi.org/10.1021/acs.jpcb.9b08380"
+      Proof PDF+SI: Galstyan2019a.pdf
+
   - title: "Harnessing Avidity: Quantifying the Entropic and Energetic Effects of Linker Length and Rigidity for Multivalent Binding of Antibodies to HIV-1"
     author: "Tal Einav, Shahrzad Yazdi, Aaron Coey, Pamela J. Bjorkman, and Rob Phillips"
     journal: Cell Systems
