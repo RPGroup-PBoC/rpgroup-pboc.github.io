@@ -6,6 +6,13 @@
       DOI: "https://doi.org/10.1021/acs.jpcb.9b08380"
       Proof PDF+SI: Galstyan2019a.pdf
 
+  - title: "Theoretical Investigation of a Genetic Switch for Metabolic Adaptation"
+    author: Kathrin S. Laxhuber,  Muir J. Morrison, and Rob Phillips
+    journal: preprint on bioRxiv
+    links:
+      DOI: "https://doi.org/10.1101/858993"
+      PDF: Laxhuber2019.pdf
+
   - title: "Harnessing Avidity: Quantifying the Entropic and Energetic Effects of Linker Length and Rigidity for Multivalent Binding of Antibodies to HIV-1"
     author: "Tal Einav, Shahrzad Yazdi, Aaron Coey, Pamela J. Bjorkman, and Rob Phillips"
     journal: Cell Systems
