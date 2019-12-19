@@ -1,4 +1,13 @@
 2019:
+  - title: "Physiological Adaptability and Parametric Versatility in a Simple Genetic Circuit"
+    author: Griffin Chure, Zofii A. Kaczmarek, and Rob Phillips
+    journal: preprint on bioRxiv
+    links:
+      PDF: Chure2019b.pdf
+      SI: Chure2019b_SI.pdf
+      Website: https://rpgroup.caltech.edu/mwc_growth
+      GitHub Repository: https://github.com/rpgroup-pboc/mwc_growth
+
   - title: Allostery and Kinetic Proofreading
     author: Vahe Galstyan and Rob Phillips
     journal: J. Phys. Chem. B
