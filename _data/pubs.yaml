@@ -12,6 +12,8 @@
   - title: Allostery and Kinetic Proofreading
     author: Vahe Galstyan and Rob Phillips
     journal: J. Phys. Chem. B
+    volume: 123
+    issue: 51
     links:
       DOI: "https://doi.org/10.1021/acs.jpcb.9b08380"
       Proof PDF+SI: Galstyan2019a.pdf
@@ -26,6 +28,8 @@
   - title: "Harnessing Avidity: Quantifying the Entropic and Energetic Effects of Linker Length and Rigidity for Multivalent Binding of Antibodies to HIV-1"
     author: "Tal Einav, Shahrzad Yazdi, Aaron Coey, Pamela J. Bjorkman, and Rob Phillips"
     journal: Cell Systems
+    volume: 9
+    issue: 5
     links:
       DOI: "https://doi.org/10.1016/j.cels.2019.09.007"
       PDF: Einav2019c.pdf
@@ -43,6 +47,8 @@
   - title: "Predictive shifts in free energy couple mutations to their phenotypic consequences"
     author: "Griffin Chure, Manuel Razo-Mejia, Nathan M. Belliveau, Tal Einav, Zofii A. Kaczmarek, Stephanie L. Barnes, Mitchell Lewis, and Rob Phillips"
     journal: "PNAS"
+    volume: 116
+    issue: 37
     links:
       DOI: "https://doi.org/10.1073/pnas.1907869116"
       PDF: Chure2019a.pdf
@@ -53,6 +59,7 @@
   - title: "Controlling Organization and Forces in Active Matter Through Optically-Defined Boundaries"
     author: Tyler D. Ross, Heun Jin Lee, Zijie Qu, Rachel A. Banks, Rob Phillips, and Matt Thomson
     journal: "Nature"
+    volume: 572
     links:
       DOI: "https://doi.org/10.1038/s41586-019-1447-1"
       PDF: Ross2019.pdf
@@ -62,6 +69,8 @@
   - title: "How the Avidity of Polymerase Binding to the -35/-10 Promoter Sites Affects Gene Expression"
     author: "Tal Einav and Rob Phillips"
     journal: "PNAS"
+    volume: 116
+    issue: 27
     links:
       DOI: "https://doi.org/10.1073/pnas.1905615116"
       PDF: "Einav2019b.pdf"
@@ -70,6 +79,8 @@
   - title: "Torque-dependent remodeling of the bacterial flagellar motor"
     author: "Navish Wadhwaa, Rob Phillips, and Howard C. Berg"
     journal: "PNAS"
+    volume: 116
+    issue: 24
     links:
       DOI: "https://doi.org/10.1073/pnas.1904577116"
       PDF: Wadhwa2019a.pdf
@@ -104,6 +115,8 @@
   - title: "Mapping DNA sequence to transcription factor binding energy <i> in vivo</i>"
     author: "Stephanie L. Barnes, Nathan M. Belliveau, William T. Ireland, Justin B. Kinney, and Rob Phillips."
     journal: "PLOS Computational Biology"
+    volume: 15
+    issue: 2
     links:
         DOI: "https://doi.org/10.1101/331124"
         PDF: "Barnes2019.pdf"
@@ -114,6 +127,8 @@
   - title: "Microtubule End-Clustering Maintains a Steady-State Spindle Shape"
     author: Christina L. Hueschen, Vahe Galstyan, Meelad Amouzgar, Rob Phillips, and Sophie Dumont
     journal: "Current Biology" 
+    volume: 29
+    issue: 4
     links:
       DOI: "https://doi.org/10.1016/j.cub.2019.01.016" 
       PDF: Hueschen2019.pdf
@@ -160,6 +175,7 @@
   - title: "Measuring cis-regulatory energetics in living cells using allelic manifolds"
     author: Talitha Forcier, Andalus Ayaz, Maraj S. Gill, Daniel Jones, Rob Phillips, and Justin B. Kinney.
     journal: "eLife"
+    volume: "7:e40618"
     links: 
       PDF: "Forcier2018.pdf"
       DOI: "http://doi.org/10.7554/eLife.40618"
@@ -167,7 +183,8 @@
   - title: "The biomass distribution on Earth"
     author: "Yinon M. Bar-On, Rob Phillips, and Ron Milo."
     journal: "PNAS"
-    volume: "online print"
+    volume: "115"
+    issue: "25"
     links:
       DOI: "pnas.org/cgi/doi/10.1073/pnas.1711842115"
       PDF: "Bar-On_2018.pdf"
