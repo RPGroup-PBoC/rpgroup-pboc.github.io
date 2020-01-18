@@ -1,3 +1,13 @@
+2020:
+  - title: "Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time"
+    author: "William T. Ireland, Suzannah M. Beeler, Emanuel Flores-Bautista, Nathan M. Belliveau, Michael J. Sweredoski, Annie Moradian, Justin B. Kinney, and Rob Phillips"
+    journal: preprint on bioRxiv
+    links:
+      PDF: Ireland2020.pdf
+      SI: Ireland2020a.pdf
+      Website: https://www.rpgroup.caltech.edu/RNAseq_SortSeq/
+      Github Repository: https://github.com/RPGroup-PBoC/RNAseq_SortSeq
+
 2019:
   - title: "Physiological Adaptability and Parametric Versatility in a Simple Genetic Circuit"
     author: Griffin Chure, Zofii A. Kaczmarek, and Rob Phillips
@@ -232,6 +242,12 @@
       Website: "http://rpgroup.caltech.edu/mwc_induction"
       Repository: "http://www.github.com/rpgroup-pboc/mwc_induction"
 
+  - title: "Membranes by the Numbers"
+    author: Rob Phillips. In Bassereau, P., & In Sens, P. 
+    journal: Physics of Biological Membranes
+    links:
+        PDF: "Phillips2017a.pdf"
+
 2017:
   - title: "The role of DNA sequence in nucleosome breathing"
     author: "Jami Culkin, Lennart de Bruin, Marco Tompitak, Rob Phillips,
@@ -258,12 +274,6 @@
     links:
       DOI: "10.1371/journal.pone.0179235"
       PDF: Landman_et_al_2017.pdf
-
-  - title: "Membranes by the Numbers"
-    author: Rob Phillips. Edited by Patricia Bassereau and Pierre Sens. To appear in
-    journal: Physics of Biological Membranes
-    links:
-        PDF: "Phillips2017a.pdf"
 
   - title: "Monod-Wyman-Changeux Analysis of Ligand-Gated Ion Channel Mutants"
     author: "Tal Einav and Rob Phillips."
