@@ -1,4 +1,11 @@
 2020:
+  - title: "Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems"
+    author: Timothy C. Yu, Winnie L. Liu, Marcia Brinck, Jessica E. Davis, Jeremy Shek, Grace Bower, Tal Einav, Kimberly D. Insigne, Rob Phillips, Sriram Kosuri, and Guillaume Urtecho
+    journal: preprint on bioRxiv
+    links:
+      DOI: "https://doi.org/10.1101/2020.01.31.928689"
+      PDF: Yu2020.pdf
+
   - title: "Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time"
     author: "William T. Ireland, Suzannah M. Beeler, Emanuel Flores-Bautista, Nathan M. Belliveau, Michael J. Sweredoski, Annie Moradian, Justin B. Kinney, and Rob Phillips"
     journal: preprint on bioRxiv
