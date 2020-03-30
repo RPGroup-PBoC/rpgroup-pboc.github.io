@@ -1,4 +1,10 @@
 2020:
+  - title: "SARS-CoV-2 (COVID-19) by the numbers"
+    author: "Yinon M. Bar-On, Avi Flamhoz, Rob Phillips, and Ron Milo."
+    journal: "eLife (in press)"
+    links:
+      PDF: "Bar-On_2020.pdf"
+      
   - title: "Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems"
     author: Timothy C. Yu, Winnie L. Liu, Marcia Brinck, Jessica E. Davis, Jeremy Shek, Grace Bower, Tal Einav, Kimberly D. Insigne, Rob Phillips, Sriram Kosuri, and Guillaume Urtecho
     journal: preprint on bioRxiv
