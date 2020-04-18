@@ -3,6 +3,8 @@
     author: "Yinon M. Bar-On, Avi Flamhoz, Rob Phillips, and Ron Milo."
     journal: "eLife (in press)"
     links:
+      DOI: https://doi.org/10.7554/eLife.57309
+      Issue: 2020;9:e57309
       PDF: "Bar-On_2020.pdf"
       
   - title: "Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems"
