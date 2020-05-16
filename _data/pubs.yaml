@@ -1,8 +1,18 @@
 2020:
+  - title: "Theoretical Investigation of a Genetic Switch for Metabolic Adaptation"
+    author: Kathrin S. Laxhuber,  Muir J. Morrison, and Rob Phillips
+    journal: PLoS ONE
+    links:
+      DOI: "https://doi.org/10.1371/journal.pone.0226453"
+      PDF: Laxhuber2020.pdf
+      SI: Laxhuber2020_SI.pdf
+      Code: http://doi.org/10.5281/zenodo.3733595.
+
+  
   - title: "SARS-CoV-2 (COVID-19) by the numbers"
     author: "Yinon M. Bar-On, Avi Flamhoz, Rob Phillips, and Ron Milo."
     issue: 2020;9:e57309
-    journal: "eLife (in press)"
+    journal: "eLife"
     links:
       DOI: https://doi.org/10.7554/eLife.57309
       PDF: "Bar-On_2020.pdf"
@@ -43,12 +53,7 @@
       DOI: "https://doi.org/10.1021/acs.jpcb.9b08380"
       Proof PDF+SI: Galstyan2019a.pdf
 
-  - title: "Theoretical Investigation of a Genetic Switch for Metabolic Adaptation"
-    author: Kathrin S. Laxhuber,  Muir J. Morrison, and Rob Phillips
-    journal: preprint on bioRxiv
-    links:
-      DOI: "https://doi.org/10.1101/858993"
-      PDF: Laxhuber2019.pdf
+
 
   - title: "Harnessing Avidity: Quantifying the Entropic and Energetic Effects of Linker Length and Rigidity for Multivalent Binding of Antibodies to HIV-1"
     author: "Tal Einav, Shahrzad Yazdi, Aaron Coey, Pamela J. Bjorkman, and Rob Phillips"
