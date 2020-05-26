@@ -12,8 +12,6 @@ permalink: publications/index.html
  border: 1px solid #000000; float: left; text-align: top; margin-right: 10px ">
 <b>The Molecular Switch: Signalling and Allostery</b> by Rob Phillips; illustrated by Nigel Orme. <i>Princeton University Press</i>, 2020. | <a
 href="https://www.amazon.com/dp/0691200246/">Website</a><br>
-<br /> 
-<br />
 </div>
 
 <br/>
@@ -21,8 +19,6 @@ href="https://www.amazon.com/dp/0691200246/">Website</a><br>
 <img src="{{ site.baseurl }}/assets/images/cbbtn.jpg" style="height: 200px;
  border: 1px solid #000000; float: left; text-align: top; margin-right: 10px ">
  <b>Cell Biology by the Numbers</b> by Ron Milo and Rob Phillips. <i>Garland Science</i>, 2015. | <a href="http://book.bionumbers.org">Book Website</a>
- <br />
- <br />
 </div>
 <br/>
 
