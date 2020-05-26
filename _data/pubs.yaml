@@ -4,7 +4,8 @@
     journal: Nucleic Acids Research
     links: 
       DOI: "https://doi.org/10.1093/nar/gkaa418"
-      PDF+SI: Hirokawa2020.pdf 
+      PDF: Hirokawa2020.pdf
+      SI: Hirokawa2020_SI.pdf
       Website: "https://www.rpgroup.caltech.edu/vdj_recombination/"
       GitHub Repository: "https://github.com/RPGroup-PBoC/vdj_recombination"
 
