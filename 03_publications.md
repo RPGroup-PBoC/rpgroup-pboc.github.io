@@ -23,7 +23,7 @@ href="https://www.amazon.com/dp/0691200246/">Website</a><br>
  <br />
  <br />
 </div>
-
+<br/>
 <div style="height: 200px;">
 <br/><br/> <img src="{{ site.baseurl }}/assets/images/pboc.jpg" style="height:
 200px; border: 1px solid #000000; float: left;  margin-right: 10px ">
