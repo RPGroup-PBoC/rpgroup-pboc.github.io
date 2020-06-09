@@ -28,6 +28,10 @@
   email: aduarte
   office: 132 Broad
 
+- name: Avi Flamholz
+  title: Posdoctoral Scholar
+  image: aflamholz
+
 - name: Vahe Galstyan
   title: Graduate Student
   image: vahe
@@ -103,3 +107,9 @@
   email: gsalmon
   office: 153 Broad
   mc: 114-96
+
+- name: Scott Saunders
+  title: Posdoctoral Scholar
+  email: ssaunder
+  image: ssaunder
+  link: "https://scott-saunders.github.io/website/"
