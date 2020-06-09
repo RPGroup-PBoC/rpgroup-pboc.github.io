@@ -1,4 +1,10 @@
 2020:
+  - title: "A quantitative compendium of COVID-19 epidemiology"
+    author: Yinon M. Bar-On, Ron Sender, Avi I. Flamholz, Rob Phillips, and Ron Milo 
+    journal: preprint on arXiv
+    links: 
+      PDF: Bar-On_2020b.pdf
+
   - title: "Sequence-dependent dynamics of synthetic and endogenous RSSs in V(D)J recombination"
     author: "Soichi Hirokawa, Griffin Chure, Nathan M Belliveau, Geoffrey A Lovely, Michael Anaya, David G Schatz, David Baltimore, Rob Phillips"
     journal: Nucleic Acids Research
