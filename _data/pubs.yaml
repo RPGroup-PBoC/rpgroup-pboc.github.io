@@ -1,4 +1,12 @@
 2020:
+  - title: Reconciling Kinetic and Equilibrium Models of Bacterial Transcription
+    author: Muir Morrison, Manuel Razo-Mejia, and Rob Phillips
+    journal: preprint on arXiv/bioRχiv
+    links:
+      PDF: Morrison2020a.pdf
+      SI: Morrison2020a_SI.pdf
+      Github Repository Code: "https://github.com/RPGroup-PBoC/bursty_transcription"
+
   - title: "A quantitative compendium of COVID-19 epidemiology"
     author: Yinon M. Bar-On, Ron Sender, Avi I. Flamholz, Rob Phillips, and Ron Milo 
     journal: preprint on arXiv
