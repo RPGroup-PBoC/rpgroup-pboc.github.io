@@ -1,4 +1,16 @@
 2020:
+- title: "First-principles prediction of the information processing capacity of a simple genetic circuit"
+    author: "Manuel Razo-Mejia, Sarah Marzen, Griffin Chure, Rachel Taubman, Muir Morrison, and Rob Phillips"
+    journal: Physical Review E. 
+    volume: 102
+    links:
+      DOI: "https://doi.org/10.1103/PhysRevE.102.022404"
+      PDF: RazoMejia2020.pdf
+      SI: RazoMejia2020_SI.pdf
+      Paper Website: "https://www.rpgroup.caltech.edu/chann_cap/"
+      Github Repository: "https://github.com/RPGroup-PBoC/chann_cap"
+
+
   - title: Reconciling Kinetic and Equilibrium Models of Bacterial Transcription
     author: Muir Morrison, Manuel Razo-Mejia, and Rob Phillips
     journal: preprint on arXiv/bioRχiv
@@ -149,15 +161,6 @@
       DOI: "https://doi.org/10.1146/annurev-biophys-052118-115525"
       PDF: Phillips2019a.pdf
       SI: Phillips2019a_SI.pdf
-
-  - title: "First-principles prediction of the information processing capacity of a simple genetic circuit"
-    author: "Manuel Razo-Mejia and Rob Phillips"
-    journal: preprint on bioRχiv
-    links:
-      DOI: "https://doi.org/101101/594325"
-      PDF: RazoMejia2019.pdf
-      Paper Website: "https://www.rpgroup.caltech.edu/chann_cap/"
-      Github Repository: "https://github.com/RPGroup-PBoC/chann_cap"
 
   - title: "Measuring the Energetic Costs of Embryonic Development" 
     author: "Peter J. Foster, Manuel Razo-Mejia, and Rob Phillips" 
