@@ -1,4 +1,14 @@
 2020:
+  - title: "Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time"
+    author: "William T Ireland, Suzannah M Beeler, Emanuel Flores-Bautista, Nicholas S McCarty, Tom Röschinger, Nathan M Belliveau, Michael J Sweredoski, Annie Moradian, Justin B Kinney, and Rob Phillips"
+    journal: eLife
+    links:
+      DOI: "https://doi.org/10.7554/eLife.55308"
+      PDF: Ireland2020.pdf
+      SI: Ireland2020_SI.pdf
+      Website: https://www.rpgroup.caltech.edu/RNAseq_SortSeq/
+      Github Repository: https://github.com/RPGroup-PBoC/RNAseq_SortSeq
+
   - title: "First-principles prediction of the information processing capacity of a simple genetic circuit"
     author: "Manuel Razo-Mejia, Sarah Marzen, Griffin Chure, Rachel Taubman, Muir Morrison, and Rob Phillips"
     journal: Physical Review E. 
@@ -68,14 +78,6 @@
       DOI: "https://doi.org/10.1101/2020.01.31.928689"
       PDF: Yu2020.pdf
 
-  - title: "Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time"
-    author: "William T. Ireland, Suzannah M. Beeler, Emanuel Flores-Bautista, Nathan M. Belliveau, Michael J. Sweredoski, Annie Moradian, Justin B. Kinney, and Rob Phillips"
-    journal: preprint on bioRχiv
-    links:
-      PDF: Ireland2020.pdf
-      SI: Ireland2020_SI.pdf
-      Website: https://www.rpgroup.caltech.edu/RNAseq_SortSeq/
-      Github Repository: https://github.com/RPGroup-PBoC/RNAseq_SortSeq
 
 2019:
   - title: "Physiological Adaptability and Parametric Versatility in a Simple Genetic Circuit"
