@@ -1,4 +1,12 @@
 2020:
+  - title: "Fundamental limits on the rate of bacterial growth"
+    author: Nathan M. Belliveau<sup>☭</sup>, Griffn Chure<sup>☭</sup>, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips (☭ contributed equally).
+    journal: bioRχiv
+    links:
+      PDF: Belliveau_Chure2020.pdf 
+      Website: https://rpgroup.caltech.edu/growth_limits
+      Github Repository: https://github.com/rpgroup-pboc/growth_limits
+
   - title: "Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time"
     author: "William T Ireland, Suzannah M Beeler, Emanuel Flores-Bautista, Nicholas S McCarty, Tom Röschinger, Nathan M Belliveau, Michael J Sweredoski, Annie Moradian, Justin B Kinney, and Rob Phillips"
     journal: eLife
