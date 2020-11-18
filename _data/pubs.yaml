@@ -1,4 +1,11 @@
 2020:
+  - title: "The total number and mass of SARS-CoV-2 virions in an infected person"
+    author: Ron Sender, Yinon M. Bar-On, Avi Flamholz, Shmuel Gleizer, Biana Bernsthein, Rob Phillips, and Ron Milo
+    journal: medRχiv
+    links:
+      PDF: Sender2020.pdf
+      DOI: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232009v1"
+
   - title: "Fundamental limits on the rate of bacterial growth"
     author: Nathan M. Belliveau<sup>☭</sup>, Griffin Chure<sup>☭</sup>, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips (☭ contributed equally).
     journal: bioRχiv
