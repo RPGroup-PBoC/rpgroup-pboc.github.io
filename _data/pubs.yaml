@@ -1,4 +1,11 @@
 2021:
+  - title: Reconciling kinetic and thermodynamic models of bacterial transcription
+    author: Muir Morrison, Manuel Razo-Mejia, and Rob Phillips 
+    journal: PLoS Computational Biology
+    links:
+      PDF: Morrison2021.pdf
+      DOI: https://doi.org/10.1371/journal.pcbi.1008572
+
   - title: Proofreading through spatial gradients
     author: Vahe Galstyan, Kabir Husain, Fangzhou Xiao, Arvind Murugan, and Rob Phillips
     journal: eLife
@@ -9,7 +16,7 @@
   - title: "Schrödinger’s `What is Life?' at 75"
     author: Rob Phillips
     links:
-      PDF URL: Phillips2021a.pdf
+      PDF: Phillips2021a.pdf
 
 2020:
   - title: "The total number and mass of SARS-CoV-2 virions in an infected person"
