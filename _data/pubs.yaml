@@ -1,4 +1,13 @@
 2021:
+  - title: "The Anthropocene by the Numbers: A Quantitative Snapshot of Humanity’s Influence on the Planet"
+    author: Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon M. Bar-On, Ron Milo, and Rob Phillips
+    links:
+      PDF: Chure_et_al_2021_main.pdf
+      SI: Chure_et_al_2021_supplement.pdf
+      Graphical Snapshot: Chure_et_al_2021_snapshot.pdf
+      Github Repository: https://github.com/rpgroup-pboc/human_impacts
+      The Human Impacts Database: https://anthroponumbers.org
+
   - title: Reconciling kinetic and thermodynamic models of bacterial transcription
     author: Muir Morrison, Manuel Razo-Mejia, and Rob Phillips 
     journal: PLoS Computational Biology
@@ -55,15 +64,6 @@
       Paper Website: "https://www.rpgroup.caltech.edu/chann_cap/"
       Github Repository: "https://github.com/RPGroup-PBoC/chann_cap"
 
-
-  - title: Reconciling Kinetic and Equilibrium Models of Bacterial Transcription
-    author: Muir Morrison, Manuel Razo-Mejia, and Rob Phillips
-    journal: preprint on arXiv/bioRχiv
-    links:
-      PDF: Morrison2020a.pdf
-      SI: Morrison2020a_SI.pdf
-      Github Repository Code: "https://github.com/RPGroup-PBoC/bursty_transcription"
-
   - title: "A quantitative compendium of COVID-19 epidemiology"
     author: Yinon M. Bar-On, Ron Sender, Avi I. Flamholz, Rob Phillips, and Ron Milo 
     journal: preprint on arXiv
@@ -80,13 +80,6 @@
       SI: Hirokawa2020_SI.pdf
       Website: "https://www.rpgroup.caltech.edu/vdj_recombination/"
       GitHub Repository: "https://github.com/RPGroup-PBoC/vdj_recombination"
-
-  - title: "Proofreading through spatial gradients"
-    author: Vahe Galstyan, Kabir Husain, Fangzhou Xiao, Arvind Murugan, Rob Phillips
-    journal: preprint on arXiv/bioRχiv
-    links: 
-      PDF: "Galstyan2020.pdf"
-      DOI: "https://doi.org/10.1101/2020.05.23.112664"
 
   - title: "Theoretical Investigation of a Genetic Switch for Metabolic Adaptation"
     author: Kathrin S. Laxhuber,  Muir J. Morrison, and Rob Phillips
