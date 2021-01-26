@@ -1,12 +1,14 @@
 2021:
   - title: "The Anthropocene by the Numbers: A Quantitative Snapshot of Humanity’s Influence on the Planet"
     author: Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon M. Bar-On, Ron Milo, and Rob Phillips
+    journal: preprint on arxiv
     links:
       PDF: Chure_et_al_2021_main.pdf
       SI: Chure_et_al_2021_supplement.pdf
       Graphical Snapshot: Chure_et_al_2021_snapshot.pdf
       Github Repository: https://github.com/rpgroup-pboc/human_impacts
       The Human Impacts Database: https://anthroponumbers.org
+      DOI: "https://arxiv.org/abs/2101.09620"
 
   - title: Reconciling kinetic and thermodynamic models of bacterial transcription
     author: Muir Morrison, Manuel Razo-Mejia, and Rob Phillips 
