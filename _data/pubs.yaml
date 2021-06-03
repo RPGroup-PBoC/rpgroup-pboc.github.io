@@ -1,4 +1,12 @@
 2021:
+- title: "The total number and mass of SARS-CoV-2 virions"
+    author: Ron Sender, Yinon M. Bar-On, Shmuel Gleizer, Biana Bernsthein, Avi Flamholz, Rob Phillips, and Ron Milo
+    journal: PNAS
+    links:
+      PDF: Sender2021.pdf
+      SI: Sender2021_appendix.pdf
+      DOI: "https://doi.org/10.1073/pnas.2024815118"
+
   - title: "The Anthropocene by the Numbers: A Quantitative Snapshot of Humanity’s Influence on the Planet"
     author: Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon M. Bar-On, Ron Milo, and Rob Phillips
     journal: preprint on arxiv
@@ -30,12 +38,6 @@
       PDF: Phillips2021a.pdf
 
 2020:
-  - title: "The total number and mass of SARS-CoV-2 virions in an infected person"
-    author: Ron Sender, Yinon M. Bar-On, Avi Flamholz, Shmuel Gleizer, Biana Bernsthein, Rob Phillips, and Ron Milo
-    journal: medRχiv
-    links:
-      PDF: Sender2020.pdf
-      DOI: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232009v1"
 
   - title: "Fundamental limits on the rate of bacterial growth"
     author: Nathan M. Belliveau<sup>☭</sup>, Griffin Chure<sup>☭</sup>, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips (☭ contributed equally).
