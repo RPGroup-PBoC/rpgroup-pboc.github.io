@@ -1,4 +1,14 @@
 2021:
+  - title: "Schrödinger’s `What is Life?' at 75"
+    author: Rob Phillips
+    journal: Cell Systems
+    volume: 12
+    issue: 6
+    links:
+      PDF: Phillips2021a.pdf
+      DOI: "https://doi.org/10.1016/j.cels.2021.05.013"
+
+
   - title: "The total number and mass of SARS-CoV-2 virions"
     author: Ron Sender, Yinon M. Bar-On, Shmuel Gleizer, Biana Bernsthein, Avi Flamholz, Rob Phillips, and Ron Milo
     journal: PNAS
@@ -31,11 +41,6 @@
     links:
       PDF: Galstyan2021a.pdf
       DOI: "https://doi.org/10.7554/eLife.60415"
-
-  - title: "Schrödinger’s `What is Life?' at 75"
-    author: Rob Phillips
-    links:
-      PDF: Phillips2021a.pdf
 
 2020:
 
