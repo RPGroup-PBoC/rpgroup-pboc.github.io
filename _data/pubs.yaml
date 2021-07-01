@@ -1,4 +1,13 @@
 2021:
+  - title: "Fundamental limits on the rate of bacterial growth and their influence on proteomic composition"
+    author: Nathan M. Belliveau<sup>☭</sup>, Griffin Chure<sup>☭</sup>, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips (☭ contributed equally).
+    journal: Cell Systems
+    links:
+      PDF: Belliveau_Chure2021.pdf 
+      DOI: "https://doi.org/10.1016/j.cels.2021.06.002"
+      Website: https://rpgroup.caltech.edu/growth_limits
+      Github Repository: https://github.com/rpgroup-pboc/growth_limits
+
   - title: "Schrödinger’s `What is Life?' at 75"
     author: Rob Phillips
     journal: Cell Systems
@@ -43,16 +52,6 @@
       DOI: "https://doi.org/10.7554/eLife.60415"
 
 2020:
-
-  - title: "Fundamental limits on the rate of bacterial growth"
-    author: Nathan M. Belliveau<sup>☭</sup>, Griffin Chure<sup>☭</sup>, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips (☭ contributed equally).
-    journal: bioRχiv
-    links:
-      PDF: Belliveau_Chure2020.pdf 
-      DOI: "https://doi.org/10.1101/2020.10.18.344382"
-      Website: https://rpgroup.caltech.edu/growth_limits
-      Github Repository: https://github.com/rpgroup-pboc/growth_limits
-
   - title: "Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time"
     author: "William T Ireland, Suzannah M Beeler, Emanuel Flores-Bautista, Nicholas S McCarty, Tom Röschinger, Nathan M Belliveau, Michael J Sweredoski, Annie Moradian, Justin B Kinney, and Rob Phillips"
     journal: eLife
