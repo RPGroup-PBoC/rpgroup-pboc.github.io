@@ -65,8 +65,8 @@
     links:
       DOI: "https://doi.org/10.7554/eLife.55308"
       PDF: Ireland2020.pdf
-      Website: https://www.rpgroup.caltech.edu/RNAseq_SortSeq/
-      Github Repository: https://github.com/RPGroup-PBoC/RNAseq_SortSeq
+      Website: https://www.rpgroup.caltech.edu/RegSeq/
+      Github Repository: https://github.com/RPGroup-PBoC/RegSeq
 
   - title: "First-principles prediction of the information processing capacity of a simple genetic circuit"
     author: "Manuel Razo-Mejia, Sarah Marzen, Griffin Chure, Rachel Taubman, Muir Morrison, and Rob Phillips"
