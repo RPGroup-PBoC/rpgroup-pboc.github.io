@@ -1,4 +1,11 @@
 2021:
+  - title: "Motor processivity and speed determine structure and dynamics of microtubule-motor assemblies"
+    author:  Rachel A. Banks,  Vahe Galstyan, Heun Jin Lee, Soichi Hirokawa, Athena Ierokomos, Tyler D. Ross, Zev Bryant, Matt Thomson, and Rob Phillips
+    journal: preprint on bioRχiv
+    links:
+      PDF: Banks2021.pdf
+      DOI: "https://doi.org/10.1101/2021.10.22.465381"
+
   - title: "Fundamental limits on the rate of bacterial growth and their influence on proteomic composition"
     author: Nathan M. Belliveau<sup>☭</sup>, Griffin Chure<sup>☭</sup>, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips (☭ contributed equally).
     journal: Cell Systems
