@@ -11,14 +11,14 @@ permalink: publications/index.html
 <img src="{{ site.baseurl }}/assets/images/molecularSwitch.jpg" style="height: 200px;
  border: 1px solid #000000; float: left; text-align: top; margin-right: 10px ">
 <b>The Molecular Switch: Signalling and Allostery</b> by Rob Phillips; illustrated by Nigel Orme. <i>Princeton University Press</i>, 2020. | <a
-href="https://www.amazon.com/dp/0691200246/">Website</a><br>
+href="https://www.amazon.com/dp/0691200246/" target="_blank">Website</a><br>
 </div>
 
 <br/>
 <div style="height: 200px;">
 <img src="{{ site.baseurl }}/assets/images/cbbtn.jpg" style="height: 200px;
  border: 1px solid #000000; float: left; text-align: top; margin-right: 10px ">
- <b>Cell Biology by the Numbers</b> by Ron Milo and Rob Phillips. <i>Garland Science</i>, 2015. | <a href="http://book.bionumbers.org">Book Website</a>
+ <b>Cell Biology by the Numbers</b> by Ron Milo and Rob Phillips. <i>Garland Science</i>, 2015. | <a href="http://book.bionumbers.org" target="_blank">Book Website</a>
 </div>
 <br/>
 
@@ -28,16 +28,16 @@ href="https://www.amazon.com/dp/0691200246/">Website</a><br>
 <b>Physical Biology of the Cell, Second Edition</b> by Rob Phillips, Jané
 Kondev, Julie Theriot, Hernan Garcia, and illustrated by Nigel Orme. <i>Garland
 Science</i>, 2012. | <a
-href="http://www.rpgroup.caltech.edu/pboc2">Book
+href="http://www.rpgroup.caltech.edu/pboc2" target="_blank">Book
 Website</a> | <a
-href="http://www.rpdata.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
+href="http://www.rpdata.caltech.edu/publications/PBoC2_Erratum.pdf" target="_blank">Erratum</a>
 </div>
 
 <br/>
 <div style="height: 200px;">
 <br /> <br/>
 <img src="{{ site.baseurl }}/assets/images/crystals.jpg" style="height: 200px;  padding-right: 10px; float: left; text-align: top; margin-right: 10 px;">
-<b><span> </span>  Crystals, Defects and Microstructures: Modeling Across Scales </b> by Rob Phillips. <i> Cambridge University Press</i>, 2001. | <a href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521793575"> Book Website</a>
+<b><span> </span>  Crystals, Defects and Microstructures: Modeling Across Scales </b> by Rob Phillips. <i> Cambridge University Press</i>, 2001. | <a href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521793575" target="_blank"> Book Website</a>
 </div>
 <br />
 <br />
