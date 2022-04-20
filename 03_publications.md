@@ -55,7 +55,7 @@ href="http://www.rpdata.caltech.edu/publications/PBoC2_Erratum.pdf">Erratum</a>
 {% assign links = p.links %}
 
 **{{ p.title }}** by {{ p.author }} <i>{{ p.journal }}</i>
-  {{ p.volume  }} {{ p.number }} {{ year[0] }}. {% for val in links %} \|{% if val[0] == 'DOI' %} DOI: {{ val[1] }}. {% elsif val[1] contains 'http' %} [{{ val[0] }}]({{ val[1] }})  {% else %} [{{ val[0] }}]({{pub_serv}}{{ val[1] }}) {% endif %} {% endfor %}{% endfor %}
+  {{ p.volume  }} {{ p.number }} {{ year[0] }}. {% for val in links %} \|{% if val[0] == 'DOI' %} DOI: <a href="{{val[1]}}" target="_blank"></a>. {% elsif val[1] contains 'http' %} <a href="{{val[1]}}" target="_blank"> {{val[0]}}</a>{% else %} <a href="{{pub_serv}}{{val[1]}}" target="_blank"> {{val[0]}}</a>{% endif %} {% endfor %}{% endfor %}
 {% endfor %}
 {% endfor %}
 
