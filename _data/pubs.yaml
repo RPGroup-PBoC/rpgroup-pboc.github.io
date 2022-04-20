@@ -1,3 +1,20 @@
+2022:
+  - title: "Modeling and mechanical perturbations reveal how spatially regulated anchorage gives rise to spatially distinct mechanics across the mammalian spindle"
+    author: Pooja Suresh, Vahe Galstyan, Rob Phillips, and Sophie Dumont
+    journal: preprint on bioRχiv
+    links:
+      PDF: Suresh2022.pdf
+      SI: Suresh2022_SI.pdf
+      DOI: "https://doi.org/10.1101/2022.04.08.487649"
+
+  - title: "Anthroponumbers.org: A Quantitative Database Of Human Impacts on Planet Earth"
+    author:  Griffin Chure, Rachel A. Banks, Avi I Flamholz, Nicholas S Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips
+    journal: preprint on bioRχiv
+    links:
+      PDF: Chure2022.pdf
+      DOI: "https://doi.org/10.1101/2022.03.04.483053"
+      Anthroponumbers Human Impacts Database: "http://www.anthroponumbers.org/catalog/"
+
 2021:
   - title: "Motor processivity and speed determine structure and dynamics of microtubule-motor assemblies"
     author:  Rachel A. Banks,  Vahe Galstyan, Heun Jin Lee, Soichi Hirokawa, Athena Ierokomos, Tyler D. Ross, Zev Bryant, Matt Thomson, and Rob Phillips
@@ -14,6 +31,13 @@
       DOI: "https://doi.org/10.1016/j.cels.2021.06.002"
       Website: https://rpgroup.caltech.edu/growth_limits
       Github Repository: https://github.com/rpgroup-pboc/growth_limits
+
+  - title: "Persistent fluid flows defined by active matter boundaries"
+    author: Zijie Qu, Dominik Schildknecht, Shahriar Shadkhoo, Enrique Amaya, Jialong Jiang, Heun Jin Lee, David Larios, Fan Yang, Rob Phillips, and Matt Thomson
+    journal: Communications Physics
+    links:
+      PDF: Qu2021.pdf
+      DOI: "https://doi.org/10.1038/s42005-021-00703-3"
 
   - title: "Schrödinger’s `What is Life?' at 75"
     author: Rob Phillips
