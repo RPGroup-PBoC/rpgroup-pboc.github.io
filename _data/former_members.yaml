@@ -1,3 +1,9 @@
+- name: Rachel Banks
+  image: rbanks
+  title: Graduate Student/Postdoctoral Scholar
+  office: 155 Broad
+  email: rbanks
+
 - name: Pamela Albertson
   title: Administrative Assistant
   image: undefinedMatrix
@@ -37,7 +43,7 @@
   ext: 3106
 
 - name: Griffin Chure
-  title: Postdoctoral Scholar
+  title: Graduate Student/Postdoctoral Scholar
   link: "http://gchure.github.io"
   image: gchure
   email: gchure
