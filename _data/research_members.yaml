@@ -7,42 +7,6 @@
     photo: troeschi
   - name: Grace
     photo: gsolini
-#
-#
-#"Action At A Distance On Genomes":
-#  image: vdj.png
-#  description:
-#    "In prokaryotes and eukaryotes alike, many genomic processes require distant parts of the genome to come into contact.  For example, in prokaryotic gene regulation, DNA looping is a common motif whereby transcription factors bind at more than one site simultaneously looping the intervening DNA.  Similarly, in the context of the immune system, the process of V(D)J recombination requires different gene segments to be joined together in order to create the DNA templates that lead to antibodies.  Work in our laboratory aims to bring together theoretical ideas from statistical physics with single-molecule and single-cell approaches to understand the mechanism of such action at a distance."
-#  people:
- # - name: Soichi
-#    photo: soichi
-#  - name: Griffin
-#    photo: gchure
-#
-#
-#"Allostery and Biology's Greatest Model":
-#  image: allostery.png
-#  description:
-#    "One of the most far reaching phenomena for the molecules of the cell is
-#    allostery, the fact that these molecules can exist in distinct
-#    conformations with different activities. Examples range from ion channels
-#    to transcription factors to enzymes. We have been very interested in the
-#    unity of perspective offered by the famed Monod-Wyman-Changeux model for
-#    allosteric molecules and have been using this framework to guide a variety
-#    of experiments on allosteric transcription factors with the objective of
-#    learning how phenotypic properties such as the leakiness and the effective
-#    cooperativity are determined by the underlying microscopic parameters
-#    characterizing these molecules. In addition, these ideas have led us to an
-#    evolutionary perspective in which we aim to understand how mutations lead
-#    to phenotypic changes in the functional behavior of allosteric molecules."
-#  people:
-#    - name: Manuel
-#      photo: manuel
-#    - name: Griffin
-#      photo: gchure
-#    - name: Vahe
-#      photo: vahe
-
 
 "Specificity Costs":
   image: at_a_distance.png
@@ -50,7 +14,6 @@
     “Napoleon is in equilibrium”.  These words were fired off at a speaker who had used ideas from equilibrium statistical mechanics to evaluate some process in molecular biophysics.  Though equilibrium ideas certainly work in many contexts that at first blush seem inappropriate, indeed, there are many biological processes which are highly dependent upon the fact that the system is out of equilibrium.  Work in our group in this area aims to explore how processes such as DNA replication have such amazingly high fidelity in comparison with what is permitted by thermodynamic equilibrium alone.  A second exciting set of questions center on how energy invested in biological processes permits reactions to occur in a sequential fashion that is forbidden by equilibrium considerations.
   - name: Gabe
     photo: gsalmon
-
 
 "Active Matter":
   image: microtubule_web.png
