@@ -18,8 +18,8 @@
 #    photo: soichi
 #  - name: Griffin
 #    photo: gchure
-
-
+#
+#
 #"Allostery and Biology's Greatest Model":
 #  image: allostery.png
 #  description:
@@ -48,11 +48,6 @@
   image: at_a_distance.png
   description:
     “Napoleon is in equilibrium”.  These words were fired off at a speaker who had used ideas from equilibrium statistical mechanics to evaluate some process in molecular biophysics.  Though equilibrium ideas certainly work in many contexts that at first blush seem inappropriate, indeed, there are many biological processes which are highly dependent upon the fact that the system is out of equilibrium.  Work in our group in this area aims to explore how processes such as DNA replication have such amazingly high fidelity in comparison with what is permitted by thermodynamic equilibrium alone.  A second exciting set of questions center on how energy invested in biological processes permits reactions to occur in a sequential fashion that is forbidden by equilibrium considerations.
-#  people:
-#  - name: Muir
-#    photo: muir
-#  - name: Vahe
-#    photo: vahe
   - name: Gabe
     photo: gsalmon
 
