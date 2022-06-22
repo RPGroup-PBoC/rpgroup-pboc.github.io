@@ -3,14 +3,10 @@
   description:
     "Most people surveyed would say that *Escherichia coli* is probably biology’s best understood organism.  And yet, out of its more than 4500 different genes, we know nothing about how roughly half of those genes are regulated.  Literally nothing – no transcription factor binding sites, no transcription factors identified that regulate those genes.  Work in our laboratory is using a combination of mutagenesis, cell-sorting, deep sequencing,   mass spectrometry and models from information theory and statistical physics to uncover the regulatory architectures of some of these uncharacterized genes.  Once we have these regulatory architectures in hand, we then turn to allied efforts in the laboratory aimed at using statistical mechanical models of gene regulation in conjunction with precision measurements to predict and measure the full input-output behavior of these genes.  Further, we are also engaged in using these approaches in the evolutionary setting to explore how transcription factors and their binding sites co-evolve."
   people:
-  - name: Bill
-    photo: billireland
-  - name: Suzy
-    photo: sbeeler
-  - name: Manuel
-    photo: manuel
-  - name: Niko
-    photo: nmccarty2
+  - name: Tom
+    photo: troeschi
+  - name: Grace
+    photo: gsolini
 
 
 "Action At A Distance On Genomes":
@@ -67,9 +63,7 @@
   people:
   - name: Heun Jin
     photo: heunjin
-  - name: Vahe
-    photo: vahe
   - name: Soichi
     photo: soichi
-  - name: Rachel
-    photo: rbanks
+  - name: Ana
+    photo: aduarte
