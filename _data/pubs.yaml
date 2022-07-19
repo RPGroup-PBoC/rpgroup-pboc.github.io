@@ -46,7 +46,7 @@
     links:
       PDF: Belliveau_Chure2021.pdf 
       DOI: "https://doi.org/10.1016/j.cels.2021.06.002"
-      Website: https://rpgroup.caltech.edu/growth_limits
+      Website: https://www.rpgroup.caltech.edu/growth_limits
       Github Repository: https://github.com/rpgroup-pboc/growth_limits
 
   - title: "Persistent fluid flows defined by active matter boundaries"
