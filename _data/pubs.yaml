@@ -262,7 +262,7 @@
     volume: 15
     issue: 2
     links:
-        DOI: "https://doi.org/10.1101/331124"
+        DOI: "http://dx.doi.org/10.1371/journal.pcbi.1006226"
         PDF: "Barnes2019.pdf"
         SI: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006226#sec018"
         Github Repository: "https://github.com/rpgroup-pboc/sequence_mapping.git"
