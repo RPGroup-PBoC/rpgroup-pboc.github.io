@@ -24,14 +24,17 @@
       SI: Suresh2022_SI.pdf
       DOI: "https://doi.org/10.1101/2022.04.08.487649"
 
-  - title: "Anthroponumbers.org: A Quantitative Database Of Human Impacts on Planet Earth"
-    author:  Griffin Chure, Rachel A. Banks, Avi I Flamholz, Nicholas S Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips
-    journal: preprint on bioRχiv
+  - title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth"
+    author:  Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips
+    journal: Patterns
+    volume: 3
+    pages: 100552
     links:
-      PDF: Chure2022.pdf
-      DOI: "https://doi.org/10.1101/2022.03.04.483053"
+      PDF+SI: Chure2022.pdf
+      DOI: "https://doi.org/10.1016/j.patter.2022.100552"
+      Graphical Snapshot: Chure2022_snapshot.pdf
       Anthroponumbers Human Impacts Database: "http://www.anthroponumbers.org/catalog/"
-
+      
 2021:
   - title: "Motor processivity and speed determine structure and dynamics of microtubule-motor assemblies"
     author:  Rachel A. Banks,  Vahe Galstyan, Heun Jin Lee, Soichi Hirokawa, Athena Ierokomos, Tyler D. Ross, Zev Bryant, Matt Thomson, and Rob Phillips
