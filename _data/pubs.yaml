@@ -1,4 +1,11 @@
 2022:
+  - title: "Modeling and mechanical perturbations reveal how spatially regulated anchorage gives rise to spatially distinct mechanics across the mammalian spindle"
+    author: Pooja Suresh<sup>☭</sup>, Vahe Galstyan<sup>☭</sup>, Rob Phillips, and Sophie Dumont
+    journal: eLife
+    links:
+      PDF: Suresh2022.pdf
+      DOI: "https://doi.org/10.7554/eLife.79558"
+
   - title: "Emergent Actin Flows Explain Diverse Parasite Gliding Modes"
     author: Christina L. Hueschen, Li-av Segev Zarko, Jian-Hua Chen, Mark A. LeGros, Carolyn A. Larabell, John C. Boothroyd, Rob Phillips, and Alexander R. Dunn
     journal: preprint on bioRχiv
@@ -15,14 +22,6 @@
       PDF: Hueschen2022a.pdf
       DOI: "https://doi.org/10.48550/arXiv.2206.01271"
       Supplementary videos: "https://arxiv.org/src/2206.01271v1/anc"
-
-  - title: "Modeling and mechanical perturbations reveal how spatially regulated anchorage gives rise to spatially distinct mechanics across the mammalian spindle"
-    author: Pooja Suresh, Vahe Galstyan, Rob Phillips, and Sophie Dumont
-    journal: preprint on bioRχiv
-    links:
-      PDF: Suresh2022.pdf
-      SI: Suresh2022_SI.pdf
-      DOI: "https://doi.org/10.1101/2022.04.08.487649"
 
   - title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth"
     author:  Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips
