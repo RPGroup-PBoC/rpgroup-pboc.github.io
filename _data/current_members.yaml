@@ -59,8 +59,16 @@
   office: 153 Broad
   mc: 114-96
 
-- name: Grace Solini
-  image: gsolini
+- name: Rosalind Pan
   title: Graduate Student
-  email: gsolini
-  office: 132 Broad
+  image: rpan
+  email: rosalindpan
+  office: 153 Broad
+  mc: 114-96
+
+- name: Kian Faizi
+  title: Graduate Student
+  image: kfaizi
+  email: kian
+  office: 153 Broad
+  mc: 114-96
