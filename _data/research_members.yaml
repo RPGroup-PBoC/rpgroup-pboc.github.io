@@ -5,8 +5,10 @@
   people:
   - name: Tom
     photo: troeschi
-  - name: Grace
-    photo: gsolini
+  - name: Kian
+    photo: kfaizi
+  - name: Rosalind
+    photo: rpan
 
 "Specificity Costs":
   image: at_a_distance.png
