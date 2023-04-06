@@ -46,9 +46,10 @@
 
 - name: Tom Röschinger
   title: Graduate Student
-  email: troeschi
+  email: tom
   image: troeschi
   office: 132 Broad
+  mc: 114-96
 
 - name: Gabe Salmon
   title: Graduate Student
