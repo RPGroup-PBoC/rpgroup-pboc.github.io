@@ -1,4 +1,12 @@
 2023:
+  - title: "Wildebeest herds on rolling hills: Flocking on arbitrary curved surfaces"
+    author: Christina L. Hueschen, Alexander R. Dunn, and Rob Phillips
+    journal: Phys. Rev. E
+    links:
+      PDF: "https://journals.aps.org/pre/pdf/10.1103/PhysRevE.108.024610"
+      DOI: "https://doi.org/10.1103/PhysRevE.108.024610"
+      Supplementary videos: "https://arxiv.org/src/2206.01271v1/anc"
+
   - title: "Flexibility and sensitivity in gene regulation out of equilibrium"
     author: Sara Mahdavi<sup>☭</sup>, Gabriel L. Salmon<sup>☭</sup>, Patill Daghlian, Hernan G. Garcia, and Rob Phillips (<sup>☭</sup> contributed equally)
     journal: preprint on bioRχiv
@@ -30,14 +38,6 @@
       DOI: "https://doi.org/10.1101/2022.06.08.495399"
       SI: Hueschen2022b_SI.pdf
       Supplementary videos: "https://www.biorxiv.org/content/10.1101/2022.06.08.495399v1.supplementary-material"
-
-  - title: "Wildebeest herds on Rolling Hills: Flocking on Arbitrary Curved Surfaces"
-    author: Christina L. Hueschen, Alexander R. Dunn, and Rob Phillips
-    journal: preprint on arχiv
-    links:
-      PDF: Hueschen2022a.pdf
-      DOI: "https://doi.org/10.48550/arXiv.2206.01271"
-      Supplementary videos: "https://arxiv.org/src/2206.01271v1/anc"
 
   - title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth"
     author:  Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips
