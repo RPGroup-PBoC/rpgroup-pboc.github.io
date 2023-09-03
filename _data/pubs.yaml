@@ -6,6 +6,7 @@
       PDF: "https://journals.aps.org/pre/pdf/10.1103/PhysRevE.108.024610"
       DOI: "https://doi.org/10.1103/PhysRevE.108.024610"
       Supplementary videos: "https://arxiv.org/src/2206.01271v1/anc"
+      Code, COMSOL & geometry files, detailed how-to: "https://github.com/RPGroup-PBoC/wildebeest_herds"
 
   - title: "Flexibility and sensitivity in gene regulation out of equilibrium"
     author: Sara Mahdavi<sup>☭</sup>, Gabriel L. Salmon<sup>☭</sup>, Patill Daghlian, Hernan G. Garcia, and Rob Phillips (<sup>☭</sup> contributed equally)
