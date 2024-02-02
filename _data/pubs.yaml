@@ -5,13 +5,15 @@
     links:
       PDF: "https://www.biorxiv.org/content/10.1101/2024.01.31.578293v1.full.pdf"
       DOI: "https://www.biorxiv.org/content/10.1101/2024.01.31.578293v1"
+      SI: "https://www.biorxiv.org/content/10.1101/2024.01.31.578293v1.supplementary-material"
 
   - title: "Dissecting endogeneous genetic circuits from first principles"
     author: Rosalind W. Pan, Tom Röschinger, Kian Faizi, and Rob Phillips
     journal: preprint on bioRχiv
     links:
       PDF: "https://www.biorxiv.org/content/10.1101/2024.01.28.577658v1.full.pdf"
-      DOI: "https://doi.org/10.1101/2024.01.28.577658"  
+      DOI: "https://doi.org/10.1101/2024.01.28.577658" 
+      SI: "https://www.biorxiv.org/content/biorxiv/early/2024/01/29/2024.01.28.577658/DC1/embed/media-1.pdf" 
 
 2023:
   - title: "Wildebeest herds on rolling hills: Flocking on arbitrary curved surfaces"
