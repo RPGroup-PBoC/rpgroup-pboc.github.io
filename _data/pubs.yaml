@@ -1,7 +1,14 @@
 2024:
+  - title: "Motor-driven microtubule diffusion in a photobleached dynamical coordinate system"
+    author: Soichi Hirokawa, Heun Jin Lee, Rachel A. Banks, Ana I. Duarte, Bibi Najma, Matt Thomson, and Rob Phillips
+    journal: preprint on arXiv
+    links:
+        PDF: "https://arxiv.org/pdf/2408.11216"
+        DOI: "https://arxiv.org/abs/2408.11216"
+
   - title: "Active Healing of Microtubule-Motor Networks"
     author: Fan Yang, Shichen Liu, Heun Jin Lee, Rob Phillips, and Matt Thomson
-    journal: preprint on arxiv
+    journal: preprint on arXiv
     links:
       PDF: "https://arxiv.org/pdf/2407.00842"
       DOI: "https://arxiv.org/pdf/2407.00842"
