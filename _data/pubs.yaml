@@ -1,4 +1,22 @@
 2024:
+  - title: "Seeing with an extra sense"
+    author: Rob Phillips
+    journal: Current Biology
+    pages: R934–R1023
+    links:
+      PDF: Phillips2024a.pdf
+      DOI: "https://doi.org/10.1016/j.cub.2024.07.003"
+
+  - title: "Emergent Actin Flows Explain Diverse Parasite Gliding Modes"
+    author: Christina L. Hueschen, Li-av Segev Zarko, Jian-Hua Chen, Mark A. LeGros, Carolyn A. Larabell, John C. Boothroyd, Rob Phillips, and Alexander R. Dunn
+    journal: Nature Physics
+    links:
+      PDF: Hueschen2024.pdf
+      DOI: "https://doi.org/10.1038/s41567-024-02652-4"
+      SI: Hueschen2022b_SI.pdf
+      Supplementary videos: "https://www.biorxiv.org/content/10.1101/2022.06.08.495399v1.supplementary-material"
+
+
   - title: "Machine learning models can identify individuals based on a resident oral bacteriophage family"
     author: Gita Mahmoudabadi, Kelsey Homyk, Adam B. Catching, Ana Mahmoudabadi, Helen Bermudez Foley, Arbel D. Tadmor, and Rob Phillips
     journal: Frontiers in Microbiomes
@@ -67,15 +85,6 @@
     links:
       PDF: Suresh2022.pdf
       DOI: "https://doi.org/10.7554/eLife.79558"
-
-  - title: "Emergent Actin Flows Explain Diverse Parasite Gliding Modes"
-    author: Christina L. Hueschen, Li-av Segev Zarko, Jian-Hua Chen, Mark A. LeGros, Carolyn A. Larabell, John C. Boothroyd, Rob Phillips, and Alexander R. Dunn
-    journal: preprint on bioRχiv
-    links:
-      PDF: Hueschen2022b.pdf
-      DOI: "https://doi.org/10.1101/2022.06.08.495399"
-      SI: Hueschen2022b_SI.pdf
-      Supplementary videos: "https://www.biorxiv.org/content/10.1101/2022.06.08.495399v1.supplementary-material"
 
   - title: "Anthroponumbers.org: A quantitative database of human impacts on Planet Earth"
     author:  Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon Bar-On, Ron Milo, and Rob Phillips
