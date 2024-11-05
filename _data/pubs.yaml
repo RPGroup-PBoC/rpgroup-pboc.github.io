@@ -1,4 +1,15 @@
 2024:
+  - title: "Flexibility and sensitivity in gene regulation out of equilibrium"
+    author: Sara Mahdavi<sup>☭</sup>, Gabriel L. Salmon<sup>☭</sup>, Patill Daghlian, Hernan G. Garcia, and Rob Phillips (<sup>☭</sup> contributed equally)
+    journal: PNAS
+    volume: 121 
+    issue: 46
+    links:
+      DOI: "https://doi.org/10.1073/pnas.2411395121"
+      PDF: "MahdaviSalmonFinal2024.pdf"
+      SI: "https://www.pnas.org/doi/suppl/10.1073/pnas.2411395121/suppl_file/pnas.2411395121.sapp.pdf"
+
+
   - title: "Seeing with an extra sense"
     author: Rob Phillips
     journal: Current Biology
@@ -62,14 +73,6 @@
       DOI: "https://doi.org/10.1103/PhysRevE.108.024610"
       Supplementary videos: "https://arxiv.org/src/2206.01271v1/anc"
       Code, COMSOL & geometry files, detailed how-to: "https://github.com/RPGroup-PBoC/wildebeest_herds"
-
-  - title: "Flexibility and sensitivity in gene regulation out of equilibrium"
-    author: Sara Mahdavi<sup>☭</sup>, Gabriel L. Salmon<sup>☭</sup>, Patill Daghlian, Hernan G. Garcia, and Rob Phillips (<sup>☭</sup> contributed equally)
-    journal: preprint on bioRχiv
-    links:
-      DOI: "https://www.biorxiv.org/content/10.1101/2023.04.11.536490v1"
-      PDF+SI: MahdaviSalmon2023a_withSI.pdf
-
 
   - title: "Motor processivity and speed determine structure and dynamics of microtubule-motor assemblies"
     author: Rachel A. Banks, Vahe Galstyan, Heun Jin Lee, Soichi Hirokawa, Athena Ierokomos, Tyler D. Ross, Zev Bryant, Matt Thomson, and Rob Phillips
