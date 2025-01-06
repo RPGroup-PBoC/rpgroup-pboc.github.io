@@ -164,12 +164,18 @@ Evolution:
       link: 'Evolution_GIST_2014'
     - year: 2013
       link: 'Evolution_GIST_2013'
+
 Order of Magnitude Biology:
   BE/Bi 101 at Caltech:
     - year: 2016
       link: 'http://bebi101.caltech.edu/2016/'
     - year: 2015
       link: 'http://bebi101.caltech.edu/2015/'
+
+Spark Courses:
+  E100 at Caltech - The Whale:
+    - year: 2025
+      link: 'https://www.rpgroup.caltech.edu/whale/'
 
 Introductory Biology:
   Bi1 at Caltech - Principles of Biology:
