@@ -20,15 +20,15 @@
   email: aduarte
   office: 155 Broad
 
-- name: Avi Flamholz
-  title: Postdoctoral Scholar
-  image: aflamholz
-  office: 155 Broad
-
 - name: Bibi Najma
   title: Postdoctoral Scholar
   image: bnajma
   email: najma
+
+- name: Mohammadamin (Amin) Tajik
+  title: Postdoctoral Scholar
+  image: amin
+  office: 153 Broad
 
 - name: Gabe Salmon
   title: Graduate Student
