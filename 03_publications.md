@@ -8,6 +8,14 @@ permalink: publications/index.html
 <!-- Section just for books -- Don't touch this unless you're adding another one -->
 ## Books
 <div style="height: 200px;">
+<img src="{{ site.baseurl }}/assets/images/restlessCell.jpg" style="height: 200px;
+ border: 1px solid #000000; float: left; text-align: top; margin-right: 10px ">
+<b>The Restless Cell: Continuum Theories of Living Matter</b> by Christina Hueschen and Rob Phillips; illustrated by Nigel Orme. <i>Princeton University Press</i>, 2025. | <a
+href="https://press.princeton.edu/books/hardcover/9780691236360/the-restless-cell" target="_blank">Website</a><br>
+</div>
+
+
+<div style="height: 200px;">
 <img src="{{ site.baseurl }}/assets/images/molecularSwitch.jpg" style="height: 200px;
  border: 1px solid #000000; float: left; text-align: top; margin-right: 10px ">
 <b>The Molecular Switch: Signalling and Allostery</b> by Rob Phillips; illustrated by Nigel Orme. <i>Princeton University Press</i>, 2020. | <a
