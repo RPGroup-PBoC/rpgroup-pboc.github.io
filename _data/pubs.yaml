@@ -1,4 +1,20 @@
 2025:
+  - title: "Glycolysis model shows that allostery maintains high ATP and limits accumulation of intermediates"
+    author: Mangyu Choe, Tal Einav, Rob Phillips, and Denis V. Titov
+    journal: Biophys. J.
+    links:
+      DOI: "https://doi.org/10.1016/j.bpj.2025.03.037"
+      PDF: "Choe2025.pdf"
+      SI: "https://www.cell.com/cms/10.1016/j.bpj.2025.03.037/attachment/31d9ad15-d8ec-4dfa-b079-0cad5ce6a392/mmc1.pdf"
+
+  - title: "Dynamic flow control through active matter programming language"
+    author: Fan Yang, Shichen Liu, Heun Jin Lee, Rob Phillips, and Matt Thomson
+    journal: Nature Materials
+    links:
+      DOI: "https://doi.org/10.1038/s41563-024-02090-w"
+      PDF: "Yang2025.pdf"
+      SI: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41563-024-02090-w/MediaObjects/41563_2024_2090_MOESM1_ESM.pdf"
+
   - title: "The proteome is a terminal electron acceptor"
     author: Avi I. Flamholz, Akshit Goyal, Woodward W. Fischer, Dianne K. Newman, and Rob Phillips
     journal: PNAS
@@ -28,6 +44,12 @@
       PDF: "MahdaviSalmonFinal2024.pdf"
       SI: "https://www.pnas.org/doi/suppl/10.1073/pnas.2411395121/suppl_file/pnas.2411395121.sapp.pdf"
 
+  - title: "A minimal scenario for the origin of non-equilibrium order"
+    author: Riccardo Ravasio<sup>☭</sup>, Kabir Husain<sup>☭</sup>, Constantine G. Evans, Rob Phillips, Marco Ribezzi, Jack W. Szostak, and Arvind Murugan
+    journal: preprint on arXiv
+    links: 
+      PDF: "Ravasio2024.pdf"
+      DOI: "https://doi.org/10.48550/arXiv.2405.10911"
 
   - title: "Seeing with an extra sense"
     author: Rob Phillips
@@ -46,6 +68,12 @@
       SI: Hueschen2022b_SI.pdf
       Supplementary videos: "https://www.biorxiv.org/content/10.1101/2022.06.08.495399v1.supplementary-material"
 
+  - title: "Force Propagation in Active Cytoskeletal Networks"
+    author: "Shichen Liu, Rosalind Wenshan Pan, Heun Jin Lee, Shahriar Shadkhoo, Fan Yang, Chunhe Li, Zijie Qu, Rob Phillips, Matt Thomson"
+    journal: preprint in arXiv
+    links:
+      PDF: "Liu2024.pdf"
+      DOI: "https://doi.org/10.48550/arXiv.2401.04217"
 
   - title: "Machine learning models can identify individuals based on a resident oral bacteriophage family"
     author: Gita Mahmoudabadi, Kelsey Homyk, Adam B. Catching, Ana Mahmoudabadi, Helen Bermudez Foley, Arbel D. Tadmor, and Rob Phillips
@@ -67,14 +95,6 @@
       PDF: "https://arxiv.org/pdf/2407.00842"
       DOI: "https://arxiv.org/pdf/2407.00842"
 
-  - title: "The proteome is a terminal electron acceptor"
-    author: Avi I. Flamholz, Akshit Goyal, Woodward W. Fischer, Dianne K. Newman, and Rob Phillips
-    journal: preprint on bioRχiv
-    links:
-      PDF: "https://www.biorxiv.org/content/10.1101/2024.01.31.578293v1.full.pdf"
-      DOI: "https://www.biorxiv.org/content/10.1101/2024.01.31.578293v1"
-      SI: "https://www.biorxiv.org/content/10.1101/2024.01.31.578293v1.supplementary-material"
-
 2023:
   - title: "Wildebeest herds on rolling hills: Flocking on arbitrary curved surfaces"
     author: Christina L. Hueschen, Alexander R. Dunn, and Rob Phillips
@@ -92,6 +112,13 @@
       PDF: banks2023.pdf
       DOI: "https://doi.org/10.7554/eLife.79402" 
 
+  - title: "Identification and spatio-temporal tracking of ubiquitous phage families in the human microbiome"
+    author: Arbel D. Tadmor<sup>☭</sup>, Gita Mahmoudabadi<sup>☭</sup>, Helen B. Foley, and Rob Phillips
+    journal: Frontiers in Microbiomes
+    links:
+      PDF: Tadmor2023.pdf
+      DOI: "https://doi.org/10.3389/frmbi.2022.1097124"
+
 2022:
   - title: "Modeling and mechanical perturbations reveal how spatially regulated anchorage gives rise to spatially distinct mechanics across the mammalian spindle"
     author: Pooja Suresh<sup>☭</sup>, Vahe Galstyan<sup>☭</sup>, Rob Phillips, and Sophie Dumont
@@ -107,10 +134,19 @@
     pages: 100552
     links:
       PDF+SI: Chure2022.pdf
+      Graphical Snapshot: Chure_et_al_2021_snapshot.pdf
       DOI: "https://doi.org/10.1016/j.patter.2022.100552"
       Graphical Snapshot: Chure2022_snapshot.pdf
+      Github Repository: https://github.com/rpgroup-pboc/human_impacts
       Anthroponumbers Human Impacts Database: "http://www.anthroponumbers.org/catalog/"
       
+  - title: "MCRL: using a reference library to compress a metagenome into a non-redundant list of sequences, considering viruses as a case study"
+    author: Arbel D. Tadmor and Rob Phillips
+    journal: Bioinformatics
+    links:
+      PDF: Tadmor2022.pdf
+      DOI: "https://doi.org/10.1093/bioinformatics/btab703" 
+
 2021:
   - title: "Fundamental limits on the rate of bacterial growth and their influence on proteomic composition"
     author: Nathan M. Belliveau<sup>☭</sup>, Griffin Chure<sup>☭</sup>, Christina L. Hueschen, Hernan G. Garcia, Jane Kondev, Daniel S. Fisher, Julie A. Theriot, and Rob Phillips (☭ contributed equally).
@@ -146,17 +182,6 @@
       SI: Sender2021_appendix.pdf
       DOI: "https://doi.org/10.1073/pnas.2024815118"
 
-  - title: "The Anthropocene by the Numbers: A Quantitative Snapshot of Humanity’s Influence on the Planet"
-    author: Griffin Chure, Rachel A. Banks, Avi I. Flamholz, Nicholas S. Sarai, Mason Kamb, Ignacio Lopez-Gomez, Yinon M. Bar-On, Ron Milo, and Rob Phillips
-    journal: preprint on arxiv
-    links:
-      PDF: Chure_et_al_2021_main.pdf
-      SI: Chure_et_al_2021_supplement.pdf
-      Graphical Snapshot: Chure_et_al_2021_snapshot.pdf
-      Github Repository: https://github.com/rpgroup-pboc/human_impacts
-      The Human Impacts Database: https://anthroponumbers.org
-      DOI: "https://arxiv.org/abs/2101.09620"
-
   - title: Reconciling kinetic and thermodynamic models of bacterial transcription
     author: Muir Morrison, Manuel Razo-Mejia, and Rob Phillips 
     journal: PLoS Computational Biology
@@ -170,6 +195,13 @@
     links:
       PDF: Galstyan2021a.pdf
       DOI: "https://doi.org/10.7554/eLife.60415"
+
+  - title: "Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems"
+    author: Timothy C. Yu, Winnie L. Liu, Marcia Brinck, Jessica E. Davis, Jeremy Shek, Grace Bower, Tal Einav, Kimberly D. Insigne, Rob Phillips, Sriram Kosuri, and Guillaume Urtecho
+    journal: Nature Communications
+    links:
+      DOI: "https://doi.org/10.1038/s41467-020-20094-3"
+      PDF: Yu2021.pdf
 
 2020:
   - title: "Deciphering the regulatory genome of Escherichia coli, one hundred promoters at a time"
@@ -226,13 +258,6 @@
     links:
       DOI: https://doi.org/10.7554/eLife.57309
       PDF: "Bar-On_2020.pdf"
-      
-  - title: "Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems"
-    author: Timothy C. Yu, Winnie L. Liu, Marcia Brinck, Jessica E. Davis, Jeremy Shek, Grace Bower, Tal Einav, Kimberly D. Insigne, Rob Phillips, Sriram Kosuri, and Guillaume Urtecho
-    journal: preprint on bioRχiv
-    links:
-      DOI: "https://doi.org/10.1101/2020.01.31.928689"
-      PDF: Yu2020.pdf
 
 
 2019:
