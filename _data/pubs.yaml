@@ -1,4 +1,11 @@
 2025:
+  - title: "The Environment-Dependent Regulatory Landscape of the <i>E. coli</i> Genome"
+    author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, and Rob Phillips
+    journal: preprint on arXiv
+    links:
+      DOI: "https://doi.org/10.48550/arXiv.2505.08764"
+      PDF: "Roschinger2025.pdf"
+
   - title: "The Dynamics of Inducible Genetic Circuits"
     author: Zitao Yang<sup>☭</sup>, Rebecca J. Rousseau<sup>☭</sup>, Sara D. Mahdavi<sup>☭</sup>, Hernan G. Garcia, and Rob Phillips
     journal: preprint on arXiv
