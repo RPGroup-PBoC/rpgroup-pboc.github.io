@@ -1,4 +1,12 @@
 2025:
+
+  - title: "Approximating the living"
+    author: Rob Phillips
+    journal: PNAS
+    links:
+        PDF: "Phillips2025.pdf"
+        DOI: "https://doi.org/10.1016/j.semcdb.2025.103646"
+
   - title: "Motor-driven microtubule diffusion in a photobleached dynamical coordinate system"
     author: Soichi Hirokawa, Heun Jin Lee, Rachel A. Banks, Ana I. Duarte, Bibi Najma, Matt Thomson, and Rob Phillips
     journal: PNAS
