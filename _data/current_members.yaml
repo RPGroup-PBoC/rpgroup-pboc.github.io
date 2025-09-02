@@ -26,12 +26,11 @@
   email: tajik
   office: 153 Broad
 
-- name: Gabe Salmon
+- name: Doran Sekaran
   title: Graduate Student
-  image: gsalmon
-  email: gsalmon
-  office: 153 Broad
-  mc: 114-96
+  image: dsekaran
+  email: dsekaran
+  office: 132 Broad
 
 - name: Heun Jin Lee
   title: Staff Scientist
@@ -51,7 +50,8 @@
 - name: Minakshi Ashok
   title: Graduate Student
   email: mashok2
-  image: minakshi  
+  image: minakshi 
+  office: 151 Broad 
 
 - name: Rebecca Rousseau
   title: Graduate Student
@@ -70,7 +70,7 @@
   title: Graduate Student
   image: sara  
   email: smahdavi 
-  office: 153 Broad
+  office: 151 Broad
   mc: 114-96
 
 - name: Tom Röschinger
