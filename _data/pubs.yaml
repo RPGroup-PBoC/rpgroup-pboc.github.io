@@ -1,8 +1,13 @@
 2025:
+  - title: "Many will enter, few will win: Cost and sensitivity of exploratory dynamics"
+    author: Elena F. Koslover, Milo M. Lin, and Rob Phillips
+    journal: Biophys. J.
+        PDF: "Koslover2025.pdf"
+        DOI: "https://doi.org/10.1016/j.bpj.2025.09.007"
 
   - title: "Approximating the living"
     author: Rob Phillips
-    journal: Seminars in Cell & Developmental Biology
+    journal: Semin. Cell Dev. Biol.
     links:
         PDF: "Phillips2025.pdf"
         DOI: "https://doi.org/10.1016/j.semcdb.2025.103646"
@@ -21,13 +26,6 @@
       DOI: "http://arxiv.org/abs/2506.04104"
       bioRχiv: "https://www.biorxiv.org/content/10.1101/2025.06.06.657857v1"
       PDF: "Kondev2025.pdf"
-
-  - title: "Many Will Enter, Few Will Win: Cost and Sensitivity of Exploratory Dynamics"
-    author: Elena F. Koslover, Milo M. Lin, and Rob Phillips
-    journal: preprint on arXiv
-    links:
-      DOI: "https://arxiv.org/pdf/2506.00775"
-      PDF: "Koslover2025.pdf"
 
   - title: "The Environment-Dependent Regulatory Landscape of the <i>E. coli</i> Genome"
     author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, and Rob Phillips
