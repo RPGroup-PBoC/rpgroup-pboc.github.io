@@ -1,4 +1,11 @@
 2025:
+  - title: "Biological Processes as Exploratory Dynamics"
+    author: "Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, and Rob Phillips"
+    journal: Biophys. J.
+    links:
+      DOI: "https://doi.org/10.1016/j.bpj.2025.09.009"
+      PDF: "Kondev2025.pdf"
+
   - title: "Many will enter, few will win: Cost and sensitivity of exploratory dynamics"
     author: Elena F. Koslover, Milo M. Lin, and Rob Phillips
     journal: Biophys. J.
@@ -19,14 +26,6 @@
     links:
         PDF: "Hirokawa2025.pdf"
         DOI: "https://doi.org/10.1073/pnas.2417020122"
-
-  - title: "Biological Processes as Exploratory Dynamics"
-    author: "Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, and Rob Phillips"
-    journal: preprint on arXiv and bioRχiv
-    links:
-      DOI: "http://arxiv.org/abs/2506.04104"
-      bioRχiv: "https://www.biorxiv.org/content/10.1101/2025.06.06.657857v1"
-      PDF: "Kondev2025.pdf"
 
   - title: "The Environment-Dependent Regulatory Landscape of the <i>E. coli</i> Genome"
     author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, and Rob Phillips
