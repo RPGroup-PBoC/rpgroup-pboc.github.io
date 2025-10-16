@@ -6,6 +6,13 @@
       DOI: "https://doi.org/10.1103/m8cb-gf1q"
       PDF: "FanYangThomsonPR2025.pdf"
 
+  - title: "Bifurcations and multistability in inducible three-gene toggle switch networks"
+    author: Rebecca J. Rousseau and Rob Phillips
+    journal: preprint on arXiv
+    links:
+      DOI: "https://doi.org/10.48550/arXiv.2509.24926"
+      PDF: "Rousseau2025.pdf"
+
   - title: "Biological Processes as Exploratory Dynamics"
     author: "Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, and Rob Phillips"
     journal: Biophys. J.
@@ -34,6 +41,14 @@
         PDF: "Hirokawa2025.pdf"
         DOI: "https://doi.org/10.1073/pnas.2417020122"
 
+  - title: "Glycolysis model shows that allostery maintains high ATP and limits accumulation of intermediates"
+    author: Mangyu Choe, Tal Einav, Rob Phillips, and Denis V. Titov
+    journal: Biophys. J.
+    links:
+      DOI: "https://doi.org/10.1016/j.bpj.2025.03.037"
+      PDF: "Choe2025.pdf"
+      SI: "https://www.cell.com/cms/10.1016/j.bpj.2025.03.037/attachment/31d9ad15-d8ec-4dfa-b079-0cad5ce6a392/mmc1.pdf"
+
   - title: "The Environment-Dependent Regulatory Landscape of the <i>E. coli</i> Genome"
     author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, and Rob Phillips
     journal: preprint on arXiv
@@ -46,15 +61,14 @@
     journal: preprint on arXiv
     links:
       DOI: "https://doi.org/10.48550/arXiv.2505.07053"
-      PDF: "YangMahdaviRousseau2025.pdf"
+      PDF: "YangRousseauMahdavi2025.pdf"
 
-  - title: "Glycolysis model shows that allostery maintains high ATP and limits accumulation of intermediates"
-    author: Mangyu Choe, Tal Einav, Rob Phillips, and Denis V. Titov
-    journal: Biophys. J.
+  - title: "Algebraic and Diagrammatic Methods for the Rule-Based Modeling of Multiparticle Complexes"
+    author: Rebecca J. Rousseau and Justin B. Kinney
+    journal: PRX Life
     links:
-      DOI: "https://doi.org/10.1016/j.bpj.2025.03.037"
-      PDF: "Choe2025.pdf"
-      SI: "https://www.cell.com/cms/10.1016/j.bpj.2025.03.037/attachment/31d9ad15-d8ec-4dfa-b079-0cad5ce6a392/mmc1.pdf"
+      DOI: "https://doi.org/10.1103/PRXLife.3.023004"
+      PDF: "RousseauKinney2025.pdf"
 
   - title: "Dynamic flow control through active matter programming language"
     author: Fan Yang, Shichen Liu, Heun Jin Lee, Rob Phillips, and Matt Thomson
