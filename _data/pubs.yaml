@@ -1,4 +1,18 @@
 2025:
+  - title: "The global biomass of mammals since 1850"
+    author: "Lior Greenspoon, Noam Ramot, Uri Moran, Uri Roll, Rob Phillips, Elad Noor and Ron Milo"
+    journal: Nat. Commun.
+    links:
+      DOI: "https://doi.org/10.1038/s41467-025-63888-z"
+      PDF: "Greenspoon2025.pdf"
+
+  - title: "Human biomass movement exceeds the biomass movement of all land animals combined"
+    author: "Yuval Rosenberg, Dominik Wiedenhofer, Doris Virág, Gabriel Bar-Sella, Lior Greenspoon, Barr Herrnstadt, Lewis Akenji, Rob Phillips and Ron Milo "
+    journal: Nat. Ecol. Evol.
+    links:
+      DOI: "https://doi.org/10.1038/s41559-025-02863-9"
+      PDF: "Rosenberg2025.pdf"
+
   - title: "Geometry-dependent defect merging induces bifurcated dynamics in active networks"
     author: "Fan Yang, Shichen Liu, Hao Wang, Heun Jin Lee, Rob Phillips and Matt Thomson"
     journal: Phys. Rev. Res.
