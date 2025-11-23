@@ -35,19 +35,6 @@ Unless otherwise noted, all emails are given as `@ name [at] caltech [dot] edu`.
 <br/>
 <br/>
 
-## Visitors and Friends
-{% for person in site.data.friends %}
-<div id="person-im" style="max-height: 70px">
-<figure>
-<b><a href="{{person.link}}">{{ person.name }}</a></b>
-<img src="{{ site.baseurl }}/assets/images/people/{{ person.image }}.jpg">
-<br/>
-<!-- <a href="{{ person.link }}">{{ person.location }}</a> -->
-</figure  >
-</div>
-{% endfor %}
-<br />
-<br />
 
 ## Former Members
 
