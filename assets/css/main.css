@@ -3942,18 +3942,27 @@ h2 {
 		}
 
 
-#person-im {
-    width: 200px;
-    display: inline-block; /* Keeps them side-by-side */
-    
-    /* FIX 1: ALIGNMENT */
-    /* This fixes the "aligned at the bottom" issue. 
-       It tells the browser to hang this element from the top of the row. */
-    vertical-align: top; 
-    
-    text-align: center;
-    margin: 2em 1em; /* Simplified margins for cleanliness */
-}
+		#person-im {
+		  width: 200px ;
+			/*padding: 0;*/
+			/*text-align: center;*/
+			height: 200px;
+			margin-left: 1em;
+		  margin-bottom: 5em;
+
+		  /*margin-right: 5%;*/
+		  margin-left: 6%;
+		  margin-top: 5em;
+		  vertical-align: top;
+		  text-align: center;
+		    -ms-text-justify: distribute-all-lines;
+		    text-justify: distribute-all-lines;
+			display: inline-block;
+		  flex-wrap: wrap;
+
+		  /*text-align: center;*/
+		  justify-content: space-around;
+		}
 
   #person-im h1{
 		font-size: 10px;
@@ -3964,23 +3973,12 @@ h2 {
 		}
 
 
-#person-im img {
-    /* FIX 2: FORCE SQUARE DIMENSIONS */
-    /* We explicitly set the height and width to match the circle diameter (70px * 2) */
-    width: 140px; 
-    height: 140px;
+		#person-im img {
+		  clip-path: circle(70px at center);
+		  -webkit-clip-path: circle(70px at center);
+		  border: 1px solid #000000;
+			width: 100%;
+		  max-width: 175px;
+		  text-align: center;
 
-    /* FIX 3: CROP INTELLIGENTLY */
-    /* This ensures non-square images fill the circle without stretching/distorting */
-    object-fit: cover; 
-    
-    /* FIX 4: BETTER CIRCLE METHOD */
-    /* Ideally, use border-radius instead of clip-path. 
-       It handles borders better and is standard for avatars. */
-    border-radius: 50%; 
-    border: 1px solid #000000;
-
-    /* OPTIONAL: Keep clip-path if you strictly prefer it over border-radius,
-       but remove it if you use border-radius above. */
-    /* clip-path: circle(70px at center); */
-}
+		}
