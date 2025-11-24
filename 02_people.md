@@ -39,7 +39,7 @@ Unless otherwise noted, all emails are given as `@ name [at] caltech [dot] edu`.
 ## Former Members
 
 {% for person in site.data.former_members %}
-<div id="person-im" style="height: 70px;">
+<div id="person-im">
 <figure>
 <b> {{ person.name }} </b>
 {% if person.image != none %}
