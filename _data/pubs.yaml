@@ -1,4 +1,11 @@
 2026:
+  - title: "Dynamics of inducible genetic circuits"
+    author: Zitao Yang<sup>☭</sup>, Rebecca J. Rousseau<sup>☭</sup>, Sara D. Mahdavi<sup>☭</sup>, Hernan G. Garcia, and Rob Phillips
+    journal: Phys. Rev. E
+    links:
+      DOI: "https://doi.org/10.1103/kzdj-53jf"
+      PDF: "YangRousseauMahdavi2026.pdf"
+
   - title: "Evolution of error correction through a need for speed"
     author: "Riccardo Ravasio<sup>☭</sup>, Kabir Husain<sup>☭</sup>, Constantine G. Evans, Rob Phillips, Marco Ribezzi-Crivellari, Jack W. Szostak, Arvind Murugan"
     journal: Science
@@ -77,13 +84,6 @@
     links:
       DOI: "https://doi.org/10.48550/arXiv.2505.08764"
       PDF: "Roschinger2025.pdf"
-
-  - title: "The Dynamics of Inducible Genetic Circuits"
-    author: Zitao Yang<sup>☭</sup>, Rebecca J. Rousseau<sup>☭</sup>, Sara D. Mahdavi<sup>☭</sup>, Hernan G. Garcia, and Rob Phillips
-    journal: preprint on arXiv
-    links:
-      DOI: "https://doi.org/10.48550/arXiv.2505.07053"
-      PDF: "YangRousseauMahdavi2025.pdf"
 
   - title: "Algebraic and Diagrammatic Methods for the Rule-Based Modeling of Multiparticle Complexes"
     author: Rebecca J. Rousseau and Justin B. Kinney
