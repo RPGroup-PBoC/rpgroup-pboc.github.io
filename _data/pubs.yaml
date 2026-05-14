@@ -1,4 +1,11 @@
 2026:
+  - title: "Illuminating the uncharacterized regulatory genome of *E. coli* with massively parallel reporters"
+    author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui-Fen Chou, Madhav Mani, Stephen Quake and Rob Phillips 
+    journal: preprint on biorXiv
+    links:
+      DOI: "https://doi.org/10.1101/2025.05.13.653802"
+      PDF: "Röschinger2026.pdf"
+
   - title: "Dynamics of inducible genetic circuits"
     author: Zitao Yang<sup>☭</sup>, Rebecca J. Rousseau<sup>☭</sup>, Sara D. Mahdavi<sup>☭</sup>, Hernan G. Garcia, and Rob Phillips
     journal: Phys. Rev. E
@@ -78,12 +85,12 @@
       PDF: "Choe2025.pdf"
       SI: "https://www.cell.com/cms/10.1016/j.bpj.2025.03.037/attachment/31d9ad15-d8ec-4dfa-b079-0cad5ce6a392/mmc1.pdf"
 
-  - title: "The Environment-Dependent Regulatory Landscape of the <i>E. coli</i> Genome"
-    author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, and Rob Phillips
-    journal: preprint on arXiv
-    links:
-      DOI: "https://doi.org/10.48550/arXiv.2505.08764"
-      PDF: "Roschinger2025.pdf"
+  # - title: "The Environment-Dependent Regulatory Landscape of the <i>E. coli</i> Genome"
+  #   author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui Fen Chou, Madhav Mani, Stephen Quake, and Rob Phillips
+  #   journal: preprint on arXiv
+  #   links:
+  #     DOI: "https://doi.org/10.48550/arXiv.2505.08764"
+  #     PDF: "Roschinger2025.pdf"
 
   - title: "Algebraic and Diagrammatic Methods for the Rule-Based Modeling of Multiparticle Complexes"
     author: Rebecca J. Rousseau and Justin B. Kinney
