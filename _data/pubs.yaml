@@ -1,13 +1,20 @@
 2026:
+    - title: "Informational blueprints reveal condition-dependent gene regulatory architectures"
+    author: "Doruk Efe Gökmen, Rosalind Wenshan Pan, Tom Röschinger, Stephen Quake, Hernan G. Garcia, Rob Phillips and Vincenzo Vitelli"
+    journal: preprint on arXiv
+    links:
+      DOI: "https://doi.org/10.48550/arXiv.2605.19071"
+      PDF: "Gokmen2026.pdf"
+
   - title: "Illuminating the uncharacterized regulatory genome of *E. coli* with massively parallel reporters"
-    author: Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui-Fen Chou, Madhav Mani, Stephen Quake and Rob Phillips 
+    author: "Tom Röschinger, Heun Jin Lee, Rosalind Wenshan Pan, Grace Solini, Kian Faizi, Baiyi Quan, Tsui-Fen Chou, Madhav Mani, Stephen Quake and Rob Phillips" 
     journal: preprint on biorXiv
     links:
       DOI: "https://doi.org/10.1101/2025.05.13.653802"
       PDF: "Roschinger2026.pdf"
 
   - title: "Dynamics of inducible genetic circuits"
-    author: Zitao Yang<sup>☭</sup>, Rebecca J. Rousseau<sup>☭</sup>, Sara D. Mahdavi<sup>☭</sup>, Hernan G. Garcia, and Rob Phillips
+    author: "Zitao Yang<sup>☭</sup>, Rebecca J. Rousseau<sup>☭</sup>, Sara D. Mahdavi<sup>☭</sup>, Hernan G. Garcia, and Rob Phillips"
     journal: Phys. Rev. E
     links:
       DOI: "https://doi.org/10.1103/kzdj-53jf"
