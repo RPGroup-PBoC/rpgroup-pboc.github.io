@@ -47,12 +47,6 @@
   image: minakshi 
   office: 151 Broad 
 
-- name: Rebecca Rousseau
-  title: Graduate Student
-  email: rroussea
-  image: rrousseau
-  office: 151 Broad
-
 - name: Rosalind Pan
   title: Graduate Student
   image: rpan
@@ -65,11 +59,4 @@
   image: sara  
   email: smahdavi 
   office: 151 Broad
-  mc: 114-96
-
-- name: Tom Röschinger
-  title: Graduate Student
-  email: tom
-  image: troeschi
-  office: 132 Broad
   mc: 114-96

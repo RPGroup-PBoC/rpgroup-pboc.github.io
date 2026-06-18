@@ -1,3 +1,13 @@
+- name: Tom Röschinger
+  title: Graduate Student
+  email: tom  
+  image: troeschi
+
+- name: Rebecca Rousseau
+  title: Graduate Student
+  email: rroussea
+  image: rrousseau
+
 - name: Ana Duarte
   title: Graduate Student
   image: aduarte
