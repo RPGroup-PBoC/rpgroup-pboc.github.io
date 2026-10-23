@@ -6,6 +6,13 @@
       DOI: "https://doi.org/10.64898/2026.09.16.750450"
       PDF: "MahdaviSalmon2026.pdf"
 
+  - title: "Bifurcations and multistability in inducible three-gene toggle switch networks"
+    author: Rebecca J. Rousseau and Rob Phillips
+    journal: Phys. Rev. E
+    links:
+      DOI: "https://journals.aps.org/pre/abstract/10.1103/vkqj-nszx"
+      PDF: "RousseauPhillips_2026.pdf"
+
   - title: "Conditioning as a route to stereotyped behavior in growing populations"
     author: "Riccardo Ravasio, Kabir Husain, Constantine G. Evans, Rob Phillips, Marco Ribezzi-Crivellari, Jack W. Szostak and Arvind Murugan" 
     journal: preprint on arXiv
@@ -69,13 +76,6 @@
     links:
       DOI: "https://doi.org/10.1103/m8cb-gf1q"
       PDF: "FanYangThomsonPR2025.pdf"
-
-  - title: "Bifurcations and multistability in inducible three-gene toggle switch networks"
-    author: Rebecca J. Rousseau and Rob Phillips
-    journal: preprint on arXiv
-    links:
-      DOI: "https://doi.org/10.48550/arXiv.2509.24926"
-      PDF: "Rousseau2025.pdf"
 
   - title: "Biological Processes as Exploratory Dynamics"
     author: "Jane Kondev, Marc Kirschner, Hernan G. Garcia, Gabriel L. Salmon, and Rob Phillips"
